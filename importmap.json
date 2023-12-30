@@ -14,9 +14,9 @@
     "@angular/platform-browser/animations/async": "angular_platform_browser_animations_async-17_0_6.js",
     "@angular/platform-browser-dynamic": "angular_platform_browser_dynamic-17_0_6.js",
     "@angular/router": "angular_router-17_0_6.js",
-    "@ionic/angular": "ionicangular-7_6_1.js",
-    "@ionic/angular/common": "ionicangular_common-7_6_1.js",
-    "@ionic/angular/standalone": "ionicangular_standalone-7_6_1.js",
+    "@ionic/angular": "ionic_angular-7_6_1.js",
+    "@ionic/angular/common": "ionic_angular_common-7_6_1.js",
+    "@ionic/angular/standalone": "ionic_angular_standalone-7_6_1.js",
     "rxjs": "rxjs-7_8_1.js",
     "rxjs/operators": "rxjs_operators-7_8_1.js",
     "tslib": "tslib-2_6_2.js"

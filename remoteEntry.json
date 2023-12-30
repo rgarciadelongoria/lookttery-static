@@ -115,7 +115,7 @@
     },
     {
       "packageName": "@ionic/angular",
-      "outFileName": "ionicangular-7_6_1.js",
+      "outFileName": "ionic_angular-7_6_1.js",
       "requiredVersion": "^7.6.1",
       "singleton": true,
       "strictVersion": true,
@@ -123,7 +123,7 @@
     },
     {
       "packageName": "@ionic/angular/common",
-      "outFileName": "ionicangular_common-7_6_1.js",
+      "outFileName": "ionic_angular_common-7_6_1.js",
       "requiredVersion": "^7.6.1",
       "singleton": true,
       "strictVersion": true,
@@ -131,7 +131,7 @@
     },
     {
       "packageName": "@ionic/angular/standalone",
-      "outFileName": "ionicangular_standalone-7_6_1.js",
+      "outFileName": "ionic_angular_standalone-7_6_1.js",
       "requiredVersion": "^7.6.1",
       "singleton": true,
       "strictVersion": true,
