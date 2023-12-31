@@ -1,7 +1,7 @@
 {
   "name": "lookttery-app",
-  "shared": {
-    "0": {
+  "shared": [
+    {
       "packageName": "@angular/animations",
       "outFileName": "angular_animations-17_0_6.js",
       "requiredVersion": "^17.0.0",
@@ -9,7 +9,7 @@
       "strictVersion": true,
       "version": "17.0.6"
     },
-    "1": {
+    {
       "packageName": "@angular/animations/browser",
       "outFileName": "angular_animations_browser-17_0_6.js",
       "requiredVersion": "^17.0.0",
@@ -17,7 +17,7 @@
       "strictVersion": true,
       "version": "17.0.6"
     },
-    "2": {
+    {
       "packageName": "@angular/common",
       "outFileName": "angular_common-17_0_6.js",
       "requiredVersion": "^17.0.0",
@@ -25,7 +25,7 @@
       "strictVersion": true,
       "version": "17.0.6"
     },
-    "3": {
+    {
       "packageName": "@angular/common/http",
       "outFileName": "angular_common_http-17_0_6.js",
       "requiredVersion": "^17.0.0",
@@ -33,7 +33,7 @@
       "strictVersion": true,
       "version": "17.0.6"
     },
-    "4": {
+    {
       "packageName": "@angular/compiler",
       "outFileName": "angular_compiler-17_0_6.js",
       "requiredVersion": "^17.0.0",
@@ -41,7 +41,7 @@
       "strictVersion": true,
       "version": "17.0.6"
     },
-    "5": {
+    {
       "packageName": "@angular/core",
       "outFileName": "angular_core-17_0_6.js",
       "requiredVersion": "^17.0.0",
@@ -49,7 +49,7 @@
       "strictVersion": true,
       "version": "17.0.6"
     },
-    "6": {
+    {
       "packageName": "@angular/core/primitives/signals",
       "outFileName": "angular_core_primitives_signals-17_0_6.js",
       "requiredVersion": "^17.0.0",
@@ -57,7 +57,7 @@
       "strictVersion": true,
       "version": "17.0.6"
     },
-    "7": {
+    {
       "packageName": "@angular/core/rxjs-interop",
       "outFileName": "angular_core_rxjs_interop-17_0_6.js",
       "requiredVersion": "^17.0.0",
@@ -65,7 +65,7 @@
       "strictVersion": true,
       "version": "17.0.6"
     },
-    "8": {
+    {
       "packageName": "@angular/forms",
       "outFileName": "angular_forms-17_0_6.js",
       "requiredVersion": "^17.0.0",
@@ -73,7 +73,7 @@
       "strictVersion": true,
       "version": "17.0.6"
     },
-    "9": {
+    {
       "packageName": "@angular/platform-browser",
       "outFileName": "angular_platform_browser-17_0_6.js",
       "requiredVersion": "^17.0.0",
@@ -81,7 +81,7 @@
       "strictVersion": true,
       "version": "17.0.6"
     },
-    "10": {
+    {
       "packageName": "@angular/platform-browser/animations",
       "outFileName": "angular_platform_browser_animations-17_0_6.js",
       "requiredVersion": "^17.0.0",
@@ -89,7 +89,7 @@
       "strictVersion": true,
       "version": "17.0.6"
     },
-    "11": {
+    {
       "packageName": "@angular/platform-browser/animations/async",
       "outFileName": "angular_platform_browser_animations_async-17_0_6.js",
       "requiredVersion": "^17.0.0",
@@ -97,7 +97,7 @@
       "strictVersion": true,
       "version": "17.0.6"
     },
-    "12": {
+    {
       "packageName": "@angular/platform-browser-dynamic",
       "outFileName": "angular_platform_browser_dynamic-17_0_6.js",
       "requiredVersion": "^17.0.0",
@@ -105,7 +105,7 @@
       "strictVersion": true,
       "version": "17.0.6"
     },
-    "13": {
+    {
       "packageName": "@angular/router",
       "outFileName": "angular_router-17_0_6.js",
       "requiredVersion": "^17.0.0",
@@ -113,7 +113,7 @@
       "strictVersion": true,
       "version": "17.0.6"
     },
-    "14": {
+    {
       "packageName": "@ionic/angular",
       "outFileName": "ionic_angular-7_6_1.js",
       "requiredVersion": "^7.6.1",
@@ -121,7 +121,7 @@
       "strictVersion": true,
       "version": "7.6.1"
     },
-    "15": {
+    {
       "packageName": "@ionic/angular/common",
       "outFileName": "ionic_angular_common-7_6_1.js",
       "requiredVersion": "^7.6.1",
@@ -129,7 +129,7 @@
       "strictVersion": true,
       "version": "7.6.1"
     },
-    "16": {
+    {
       "packageName": "@ionic/angular/standalone",
       "outFileName": "ionic_angular_standalone-7_6_1.js",
       "requiredVersion": "^7.6.1",
@@ -137,7 +137,7 @@
       "strictVersion": true,
       "version": "7.6.1"
     },
-    "17": {
+    {
       "packageName": "rxjs",
       "outFileName": "rxjs-7_8_1.js",
       "requiredVersion": "~7.8.0",
@@ -145,7 +145,7 @@
       "strictVersion": true,
       "version": "7.8.1"
     },
-    "18": {
+    {
       "packageName": "rxjs/operators",
       "outFileName": "rxjs_operators-7_8_1.js",
       "requiredVersion": "~7.8.0",
@@ -153,7 +153,7 @@
       "strictVersion": true,
       "version": "7.8.1"
     },
-    "19": {
+    {
       "packageName": "tslib",
       "outFileName": "tslib-2_6_2.js",
       "requiredVersion": "^2.3.0",
@@ -161,11 +161,11 @@
       "strictVersion": true,
       "version": "2.6.2"
     }
-  },
-  "exposes": {
-    "0": {
+  ],
+  "exposes": [
+    {
       "key": "./routes",
       "outFileName": "routes-C76QACGC.js"
     }
-  }
+  ]
 }
