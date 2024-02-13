@@ -1,0 +1,14 @@
+{
+    "GLOBAL": {
+        "CANCEL": "Cancel",
+        "ACCEPT": "Accept",
+        "IRREVERSIBLE_ACTION": "This action is irreversible"
+    },
+    "TICKETS": {
+        "DELETE_TICKET": "Delete Ticket",
+        "DELETE_TICKET_QUESTION": "Are you sure you want to delete this ticket?"
+    },
+    "MAIN": {
+        "SCAN_NOW": "Scan Now"
+    }
+}

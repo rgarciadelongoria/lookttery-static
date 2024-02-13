@@ -138,6 +138,22 @@
       "version": "7.6.1"
     },
     {
+      "packageName": "@ngx-translate/core",
+      "outFileName": "ngx_translate_core-15_0_0.js",
+      "requiredVersion": "^15.0.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "15.0.0"
+    },
+    {
+      "packageName": "@ngx-translate/http-loader",
+      "outFileName": "ngx_translate_http_loader-8_0_0.js",
+      "requiredVersion": "^8.0.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "8.0.0"
+    },
+    {
       "packageName": "rxjs",
       "outFileName": "rxjs-7_8_1.js",
       "requiredVersion": "~7.8.0",
@@ -165,7 +181,7 @@
   "exposes": [
     {
       "key": "./routes",
-      "outFileName": "routes-C76QACGC.js"
+      "outFileName": "routes-ZZXDZTFJ.js"
     }
   ]
 }

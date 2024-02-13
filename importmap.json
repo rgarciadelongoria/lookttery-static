@@ -17,6 +17,8 @@
     "@ionic/angular": "ionic_angular-7_6_1.js",
     "@ionic/angular/common": "ionic_angular_common-7_6_1.js",
     "@ionic/angular/standalone": "ionic_angular_standalone-7_6_1.js",
+    "@ngx-translate/core": "ngx_translate_core-15_0_0.js",
+    "@ngx-translate/http-loader": "ngx_translate_http_loader-8_0_0.js",
     "rxjs": "rxjs-7_8_1.js",
     "rxjs/operators": "rxjs_operators-7_8_1.js",
     "tslib": "tslib-2_6_2.js"
