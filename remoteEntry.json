@@ -4,7 +4,7 @@
     {
       "packageName": "@angular/animations",
       "outFileName": "angular_animations-17_1_3.js",
-      "requiredVersion": "^17.1.3",
+      "requiredVersion": "^17.0.0",
       "singleton": true,
       "strictVersion": true,
       "version": "17.1.3"
@@ -12,7 +12,7 @@
     {
       "packageName": "@angular/animations/browser",
       "outFileName": "angular_animations_browser-17_1_3.js",
-      "requiredVersion": "^17.1.3",
+      "requiredVersion": "^17.0.0",
       "singleton": true,
       "strictVersion": true,
       "version": "17.1.3"
@@ -20,7 +20,7 @@
     {
       "packageName": "@angular/common",
       "outFileName": "angular_common-17_1_3.js",
-      "requiredVersion": "^17.1.3",
+      "requiredVersion": "^17.0.0",
       "singleton": true,
       "strictVersion": true,
       "version": "17.1.3"
@@ -28,7 +28,7 @@
     {
       "packageName": "@angular/common/http",
       "outFileName": "angular_common_http-17_1_3.js",
-      "requiredVersion": "^17.1.3",
+      "requiredVersion": "^17.0.0",
       "singleton": true,
       "strictVersion": true,
       "version": "17.1.3"
@@ -36,7 +36,7 @@
     {
       "packageName": "@angular/compiler",
       "outFileName": "angular_compiler-17_1_3.js",
-      "requiredVersion": "^17.1.3",
+      "requiredVersion": "^17.0.0",
       "singleton": true,
       "strictVersion": true,
       "version": "17.1.3"
@@ -44,7 +44,7 @@
     {
       "packageName": "@angular/core",
       "outFileName": "angular_core-17_1_3.js",
-      "requiredVersion": "^17.1.3",
+      "requiredVersion": "^17.0.0",
       "singleton": true,
       "strictVersion": true,
       "version": "17.1.3"
@@ -52,7 +52,7 @@
     {
       "packageName": "@angular/core/primitives/signals",
       "outFileName": "angular_core_primitives_signals-17_1_3.js",
-      "requiredVersion": "^17.1.3",
+      "requiredVersion": "^17.0.0",
       "singleton": true,
       "strictVersion": true,
       "version": "17.1.3"
@@ -60,7 +60,7 @@
     {
       "packageName": "@angular/core/rxjs-interop",
       "outFileName": "angular_core_rxjs_interop-17_1_3.js",
-      "requiredVersion": "^17.1.3",
+      "requiredVersion": "^17.0.0",
       "singleton": true,
       "strictVersion": true,
       "version": "17.1.3"
@@ -68,7 +68,7 @@
     {
       "packageName": "@angular/forms",
       "outFileName": "angular_forms-17_1_3.js",
-      "requiredVersion": "^17.1.3",
+      "requiredVersion": "^17.0.0",
       "singleton": true,
       "strictVersion": true,
       "version": "17.1.3"
@@ -76,7 +76,7 @@
     {
       "packageName": "@angular/platform-browser",
       "outFileName": "angular_platform_browser-17_1_3.js",
-      "requiredVersion": "^17.1.3",
+      "requiredVersion": "^17.0.0",
       "singleton": true,
       "strictVersion": true,
       "version": "17.1.3"
@@ -84,7 +84,7 @@
     {
       "packageName": "@angular/platform-browser/animations",
       "outFileName": "angular_platform_browser_animations-17_1_3.js",
-      "requiredVersion": "^17.1.3",
+      "requiredVersion": "^17.0.0",
       "singleton": true,
       "strictVersion": true,
       "version": "17.1.3"
@@ -92,7 +92,7 @@
     {
       "packageName": "@angular/platform-browser/animations/async",
       "outFileName": "angular_platform_browser_animations_async-17_1_3.js",
-      "requiredVersion": "^17.1.3",
+      "requiredVersion": "^17.0.0",
       "singleton": true,
       "strictVersion": true,
       "version": "17.1.3"
@@ -100,7 +100,7 @@
     {
       "packageName": "@angular/platform-browser-dynamic",
       "outFileName": "angular_platform_browser_dynamic-17_1_3.js",
-      "requiredVersion": "^17.1.3",
+      "requiredVersion": "^17.0.0",
       "singleton": true,
       "strictVersion": true,
       "version": "17.1.3"
@@ -108,7 +108,7 @@
     {
       "packageName": "@angular/router",
       "outFileName": "angular_router-17_1_3.js",
-      "requiredVersion": "^17.1.3",
+      "requiredVersion": "^17.0.0",
       "singleton": true,
       "strictVersion": true,
       "version": "17.1.3"
