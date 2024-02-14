@@ -3,7 +3,7 @@ import{assertInInjectionContext as a,inject as u,DestroyRef as s,Injector as b,e
 
 @angular/core/fesm2022/rxjs-interop.mjs:
   (**
-   * @license Angular v17.1.3
+   * @license Angular v17.0.6
    * (c) 2010-2022 Google LLC. https://angular.io/
    * License: MIT
    *)
