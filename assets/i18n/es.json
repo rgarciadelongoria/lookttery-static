@@ -6,9 +6,15 @@
     },
     "TICKETS": {
         "DELETE_TICKET": "Eliminar Ticket",
-        "DELETE_TICKET_QUESTION": "¿Estás seguro de que deseas eliminar este ticket?"
+        "DELETE_TICKET_QUESTION": "¿Estás seguro de que deseas eliminar este ticket?",
+        "LOADING_TICKETS": "Cargando tickets..."
     },
     "MAIN": {
-        "SCAN_NOW": "Escanear Ahora"
+        "TABS": {
+            "GAMES": "Juegos",
+            "MENU": "Menu",
+            "SCAN_NOW": "Escanear ahora",
+            "TICKETS": "Tickets"
+        }
     }
 }

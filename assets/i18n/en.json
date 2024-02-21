@@ -6,9 +6,15 @@
     },
     "TICKETS": {
         "DELETE_TICKET": "Delete Ticket",
-        "DELETE_TICKET_QUESTION": "Are you sure you want to delete this ticket?"
+        "DELETE_TICKET_QUESTION": "Are you sure you want to delete this ticket?",
+        "LOADING_TICKETS": "Loading tickets..."
     },
     "MAIN": {
-        "SCAN_NOW": "Scan Now"
+        "TABS": {
+            "GAMES": "Games",
+            "MENU": "Menu",
+            "SCAN_NOW": "Scan Now",
+            "TICKETS": "Tickets"
+        }
     }
 }

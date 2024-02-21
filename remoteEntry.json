@@ -3,225 +3,309 @@
   "shared": [
     {
       "packageName": "@angular/animations",
-      "outFileName": "angular_animations-17_0_7.js",
+      "outFileName": "angular_animations-17_0_7-dev.js",
       "requiredVersion": "17.0.7",
       "singleton": true,
       "strictVersion": true,
-      "version": "17.0.7"
+      "version": "17.0.7",
+      "dev": {
+        "entryPoint": "/Users/rubengarciadelongoriapulido/Desktop/TFG/lookttery-app/node_modules/@angular/animations/fesm2022/animations.mjs"
+      }
     },
     {
       "packageName": "@angular/animations/browser",
-      "outFileName": "angular_animations_browser-17_0_7.js",
+      "outFileName": "angular_animations_browser-17_0_7-dev.js",
       "requiredVersion": "17.0.7",
       "singleton": true,
       "strictVersion": true,
-      "version": "17.0.7"
+      "version": "17.0.7",
+      "dev": {
+        "entryPoint": "/Users/rubengarciadelongoriapulido/Desktop/TFG/lookttery-app/node_modules/@angular/animations/fesm2022/browser.mjs"
+      }
     },
     {
       "packageName": "@angular/common",
-      "outFileName": "angular_common-17_0_7.js",
+      "outFileName": "angular_common-17_0_7-dev.js",
       "requiredVersion": "17.0.7",
       "singleton": true,
       "strictVersion": true,
-      "version": "17.0.7"
+      "version": "17.0.7",
+      "dev": {
+        "entryPoint": "/Users/rubengarciadelongoriapulido/Desktop/TFG/lookttery-app/node_modules/@angular/common/fesm2022/common.mjs"
+      }
     },
     {
       "packageName": "@angular/common/http",
-      "outFileName": "angular_common_http-17_0_7.js",
+      "outFileName": "angular_common_http-17_0_7-dev.js",
       "requiredVersion": "17.0.7",
       "singleton": true,
       "strictVersion": true,
-      "version": "17.0.7"
+      "version": "17.0.7",
+      "dev": {
+        "entryPoint": "/Users/rubengarciadelongoriapulido/Desktop/TFG/lookttery-app/node_modules/@angular/common/fesm2022/http.mjs"
+      }
     },
     {
       "packageName": "@angular/compiler",
-      "outFileName": "angular_compiler-17_0_7.js",
+      "outFileName": "angular_compiler-17_0_7-dev.js",
       "requiredVersion": "17.0.7",
       "singleton": true,
       "strictVersion": true,
-      "version": "17.0.7"
+      "version": "17.0.7",
+      "dev": {
+        "entryPoint": "/Users/rubengarciadelongoriapulido/Desktop/TFG/lookttery-app/node_modules/@angular/compiler/fesm2022/compiler.mjs"
+      }
     },
     {
       "packageName": "@angular/core",
-      "outFileName": "angular_core-17_0_7.js",
+      "outFileName": "angular_core-17_0_7-dev.js",
       "requiredVersion": "17.0.7",
       "singleton": true,
       "strictVersion": true,
-      "version": "17.0.7"
+      "version": "17.0.7",
+      "dev": {
+        "entryPoint": "/Users/rubengarciadelongoriapulido/Desktop/TFG/lookttery-app/node_modules/@angular/core/fesm2022/core.mjs"
+      }
     },
     {
       "packageName": "@angular/core/primitives/signals",
-      "outFileName": "angular_core_primitives_signals-17_0_7.js",
+      "outFileName": "angular_core_primitives_signals-17_0_7-dev.js",
       "requiredVersion": "17.0.7",
       "singleton": true,
       "strictVersion": true,
-      "version": "17.0.7"
+      "version": "17.0.7",
+      "dev": {
+        "entryPoint": "/Users/rubengarciadelongoriapulido/Desktop/TFG/lookttery-app/node_modules/@angular/core/fesm2022/primitives/signals.mjs"
+      }
     },
     {
       "packageName": "@angular/core/rxjs-interop",
-      "outFileName": "angular_core_rxjs_interop-17_0_7.js",
+      "outFileName": "angular_core_rxjs_interop-17_0_7-dev.js",
       "requiredVersion": "17.0.7",
       "singleton": true,
       "strictVersion": true,
-      "version": "17.0.7"
+      "version": "17.0.7",
+      "dev": {
+        "entryPoint": "/Users/rubengarciadelongoriapulido/Desktop/TFG/lookttery-app/node_modules/@angular/core/fesm2022/rxjs-interop.mjs"
+      }
     },
     {
       "packageName": "@angular/forms",
-      "outFileName": "angular_forms-17_0_7.js",
+      "outFileName": "angular_forms-17_0_7-dev.js",
       "requiredVersion": "17.0.7",
       "singleton": true,
       "strictVersion": true,
-      "version": "17.0.7"
+      "version": "17.0.7",
+      "dev": {
+        "entryPoint": "/Users/rubengarciadelongoriapulido/Desktop/TFG/lookttery-app/node_modules/@angular/forms/fesm2022/forms.mjs"
+      }
     },
     {
       "packageName": "@angular/platform-browser",
-      "outFileName": "angular_platform_browser-17_0_7.js",
+      "outFileName": "angular_platform_browser-17_0_7-dev.js",
       "requiredVersion": "17.0.7",
       "singleton": true,
       "strictVersion": true,
-      "version": "17.0.7"
+      "version": "17.0.7",
+      "dev": {
+        "entryPoint": "/Users/rubengarciadelongoriapulido/Desktop/TFG/lookttery-app/node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs"
+      }
     },
     {
       "packageName": "@angular/platform-browser/animations",
-      "outFileName": "angular_platform_browser_animations-17_0_7.js",
+      "outFileName": "angular_platform_browser_animations-17_0_7-dev.js",
       "requiredVersion": "17.0.7",
       "singleton": true,
       "strictVersion": true,
-      "version": "17.0.7"
+      "version": "17.0.7",
+      "dev": {
+        "entryPoint": "/Users/rubengarciadelongoriapulido/Desktop/TFG/lookttery-app/node_modules/@angular/platform-browser/fesm2022/animations.mjs"
+      }
     },
     {
       "packageName": "@angular/platform-browser/animations/async",
-      "outFileName": "angular_platform_browser_animations_async-17_0_7.js",
+      "outFileName": "angular_platform_browser_animations_async-17_0_7-dev.js",
       "requiredVersion": "17.0.7",
       "singleton": true,
       "strictVersion": true,
-      "version": "17.0.7"
+      "version": "17.0.7",
+      "dev": {
+        "entryPoint": "/Users/rubengarciadelongoriapulido/Desktop/TFG/lookttery-app/node_modules/@angular/platform-browser/fesm2022/animations/async.mjs"
+      }
     },
     {
       "packageName": "@angular/platform-browser-dynamic",
-      "outFileName": "angular_platform_browser_dynamic-17_0_7.js",
+      "outFileName": "angular_platform_browser_dynamic-17_0_7-dev.js",
       "requiredVersion": "17.0.7",
       "singleton": true,
       "strictVersion": true,
-      "version": "17.0.7"
+      "version": "17.0.7",
+      "dev": {
+        "entryPoint": "/Users/rubengarciadelongoriapulido/Desktop/TFG/lookttery-app/node_modules/@angular/platform-browser-dynamic/fesm2022/platform-browser-dynamic.mjs"
+      }
     },
     {
       "packageName": "@angular/router",
-      "outFileName": "angular_router-17_0_7.js",
+      "outFileName": "angular_router-17_0_7-dev.js",
       "requiredVersion": "17.0.7",
       "singleton": true,
       "strictVersion": true,
-      "version": "17.0.7"
+      "version": "17.0.7",
+      "dev": {
+        "entryPoint": "/Users/rubengarciadelongoriapulido/Desktop/TFG/lookttery-app/node_modules/@angular/router/fesm2022/router.mjs"
+      }
     },
     {
       "packageName": "@ionic/angular",
-      "outFileName": "ionic_angular-7_6_1.js",
+      "outFileName": "ionic_angular-7_6_1-dev.js",
       "requiredVersion": "7.6.1",
       "singleton": true,
       "strictVersion": true,
-      "version": "7.6.1"
+      "version": "7.6.1",
+      "dev": {
+        "entryPoint": "/Users/rubengarciadelongoriapulido/Desktop/TFG/lookttery-app/node_modules/@ionic/angular/fesm2020/ionic-angular.mjs"
+      }
     },
     {
       "packageName": "@ionic/angular/common",
-      "outFileName": "ionic_angular_common-7_6_1.js",
+      "outFileName": "ionic_angular_common-7_6_1-dev.js",
       "requiredVersion": "7.6.1",
       "singleton": true,
       "strictVersion": true,
-      "version": "7.6.1"
+      "version": "7.6.1",
+      "dev": {
+        "entryPoint": "/Users/rubengarciadelongoriapulido/Desktop/TFG/lookttery-app/node_modules/@ionic/angular/fesm2020/ionic-angular-common.mjs"
+      }
     },
     {
       "packageName": "@ionic/angular/standalone",
-      "outFileName": "ionic_angular_standalone-7_6_1.js",
+      "outFileName": "ionic_angular_standalone-7_6_1-dev.js",
       "requiredVersion": "7.6.1",
       "singleton": true,
       "strictVersion": true,
-      "version": "7.6.1"
+      "version": "7.6.1",
+      "dev": {
+        "entryPoint": "/Users/rubengarciadelongoriapulido/Desktop/TFG/lookttery-app/node_modules/@ionic/angular/fesm2020/ionic-angular-standalone.mjs"
+      }
     },
     {
       "packageName": "@ngx-translate/core",
-      "outFileName": "ngx_translate_core-15_0_0.js",
+      "outFileName": "ngx_translate_core-15_0_0-dev.js",
       "requiredVersion": "^15.0.0",
       "singleton": true,
       "strictVersion": true,
-      "version": "15.0.0"
+      "version": "15.0.0",
+      "dev": {
+        "entryPoint": "/Users/rubengarciadelongoriapulido/Desktop/TFG/lookttery-app/node_modules/@ngx-translate/core/dist/fesm2022/ngx-translate-core.mjs"
+      }
     },
     {
       "packageName": "@ngx-translate/http-loader",
-      "outFileName": "ngx_translate_http_loader-8_0_0.js",
+      "outFileName": "ngx_translate_http_loader-8_0_0-dev.js",
       "requiredVersion": "^8.0.0",
       "singleton": true,
       "strictVersion": true,
-      "version": "8.0.0"
+      "version": "8.0.0",
+      "dev": {
+        "entryPoint": "/Users/rubengarciadelongoriapulido/Desktop/TFG/lookttery-app/node_modules/@ngx-translate/http-loader/dist/fesm2022/ngx-translate-http-loader.mjs"
+      }
     },
     {
       "packageName": "@zxing/browser",
-      "outFileName": "zxing_browser-0_1_4.js",
+      "outFileName": "zxing_browser-0_1_4-dev.js",
       "requiredVersion": "^0.1.4",
       "singleton": true,
       "strictVersion": true,
-      "version": "0.1.4"
+      "version": "0.1.4",
+      "dev": {
+        "entryPoint": "/Users/rubengarciadelongoriapulido/Desktop/TFG/lookttery-app/node_modules/@zxing/browser/esm/index.js"
+      }
     },
     {
       "packageName": "@zxing/library",
-      "outFileName": "zxing_library-0_20_0.js",
+      "outFileName": "zxing_library-0_20_0-dev.js",
       "requiredVersion": "^0.20.0",
       "singleton": true,
       "strictVersion": true,
-      "version": "0.20.0"
+      "version": "0.20.0",
+      "dev": {
+        "entryPoint": "/Users/rubengarciadelongoriapulido/Desktop/TFG/lookttery-app/node_modules/@zxing/library/esm/index.js"
+      }
     },
     {
       "packageName": "@zxing/ngx-scanner",
-      "outFileName": "zxing_ngx_scanner-17_0_0.js",
+      "outFileName": "zxing_ngx_scanner-17_0_0-dev.js",
       "requiredVersion": "^17.0.0",
       "singleton": true,
       "strictVersion": true,
-      "version": "17.0.0"
+      "version": "17.0.0",
+      "dev": {
+        "entryPoint": "/Users/rubengarciadelongoriapulido/Desktop/TFG/lookttery-app/node_modules/@zxing/ngx-scanner/fesm2022/zxing-ngx-scanner.mjs"
+      }
     },
     {
       "packageName": "ng-qrcode",
-      "outFileName": "ng_qrcode-17_0_0.js",
+      "outFileName": "ng_qrcode-17_0_0-dev.js",
       "requiredVersion": "^17.0.0",
       "singleton": true,
       "strictVersion": true,
-      "version": "17.0.0"
+      "version": "17.0.0",
+      "dev": {
+        "entryPoint": "/Users/rubengarciadelongoriapulido/Desktop/TFG/lookttery-app/node_modules/ng-qrcode/fesm2022/ng-qrcode.mjs"
+      }
     },
     {
       "packageName": "rxjs",
-      "outFileName": "rxjs-7_8_1.js",
+      "outFileName": "rxjs-7_8_1-dev.js",
       "requiredVersion": "~7.8.0",
       "singleton": true,
       "strictVersion": true,
-      "version": "7.8.1"
+      "version": "7.8.1",
+      "dev": {
+        "entryPoint": "/Users/rubengarciadelongoriapulido/Desktop/TFG/lookttery-app/node_modules/rxjs/dist/esm5/index.js"
+      }
     },
     {
       "packageName": "rxjs/operators",
-      "outFileName": "rxjs_operators-7_8_1.js",
+      "outFileName": "rxjs_operators-7_8_1-dev.js",
       "requiredVersion": "~7.8.0",
       "singleton": true,
       "strictVersion": true,
-      "version": "7.8.1"
+      "version": "7.8.1",
+      "dev": {
+        "entryPoint": "/Users/rubengarciadelongoriapulido/Desktop/TFG/lookttery-app/node_modules/rxjs/dist/esm5/operators/index.js"
+      }
     },
     {
       "packageName": "tslib",
-      "outFileName": "tslib-2_6_2.js",
+      "outFileName": "tslib-2_6_2-dev.js",
       "requiredVersion": "^2.3.0",
       "singleton": true,
       "strictVersion": true,
-      "version": "2.6.2"
+      "version": "2.6.2",
+      "dev": {
+        "entryPoint": "/Users/rubengarciadelongoriapulido/Desktop/TFG/lookttery-app/node_modules/tslib/tslib.es6.mjs"
+      }
     },
     {
       "packageName": "uuid",
-      "outFileName": "uuid-9_0_1.js",
+      "outFileName": "uuid-9_0_1-dev.js",
       "requiredVersion": "^9.0.1",
       "singleton": true,
       "strictVersion": true,
-      "version": "9.0.1"
+      "version": "9.0.1",
+      "dev": {
+        "entryPoint": "/Users/rubengarciadelongoriapulido/Desktop/TFG/lookttery-app/node_modules/uuid/dist/esm-browser/index.js"
+      }
     }
   ],
   "exposes": [
     {
       "key": "./routes",
-      "outFileName": "routes-6NNBFNI5.js"
+      "outFileName": "routes.js",
+      "dev": {
+        "entryPoint": "/Users/rubengarciadelongoriapulido/Desktop/TFG/lookttery-app/src/app/app.routes.ts"
+      }
     }
   ]
 }
