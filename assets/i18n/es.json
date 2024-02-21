@@ -1,4 +1,7 @@
 {
+    "GAMES": {
+        "LN": "Lotería Nacional"
+    },
     "GLOBAL": {
         "CANCEL": "Cancelar",
         "ACCEPT": "Aceptar",
@@ -13,8 +16,13 @@
         "TABS": {
             "GAMES": "Juegos",
             "MENU": "Menu",
-            "SCAN_NOW": "Escanear ahora",
+            "SCAN_NOW": "Escanear",
             "TICKETS": "Tickets"
+        }
+    },
+    "SCAN": {
+        "ERRORS": {
+            "GENERAL": "An error occurred while scanning the ticket, check if the ticket is valid or its already scanned."
         }
     }
 }

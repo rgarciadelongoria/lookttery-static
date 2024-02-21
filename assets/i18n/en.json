@@ -1,13 +1,11 @@
 {
-    "GLOBAL": {
-        "CANCEL": "Cancel",
-        "ACCEPT": "Accept",
-        "IRREVERSIBLE_ACTION": "This action is irreversible"
+    "GAMES": {
+        "LN": "Lotería Nacional"
     },
-    "TICKETS": {
-        "DELETE_TICKET": "Delete Ticket",
-        "DELETE_TICKET_QUESTION": "Are you sure you want to delete this ticket?",
-        "LOADING_TICKETS": "Loading tickets..."
+    "GLOBAL": {
+        "ACCEPT": "Accept",
+        "CANCEL": "Cancel",
+        "IRREVERSIBLE_ACTION": "This action is irreversible"
     },
     "MAIN": {
         "TABS": {
@@ -16,5 +14,15 @@
             "SCAN_NOW": "Scan Now",
             "TICKETS": "Tickets"
         }
+    },
+    "SCAN": {
+        "ERRORS": {
+            "GENERAL": "An error occurred while scanning the ticket, check if the ticket is valid or its already scanned."
+        }
+    },
+    "TICKETS": {
+        "DELETE_TICKET": "Delete Ticket",
+        "DELETE_TICKET_QUESTION": "Are you sure you want to delete this ticket?",
+        "LOADING_TICKETS": "Loading tickets..."
     }
 }
