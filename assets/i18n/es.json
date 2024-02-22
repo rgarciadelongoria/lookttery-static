@@ -5,12 +5,10 @@
     "GLOBAL": {
         "CANCEL": "Cancelar",
         "ACCEPT": "Aceptar",
-        "IRREVERSIBLE_ACTION": "Esta acción es irreversible"
-    },
-    "TICKETS": {
-        "DELETE_TICKET": "Eliminar Ticket",
-        "DELETE_TICKET_QUESTION": "¿Estás seguro de que deseas eliminar este ticket?",
-        "LOADING_TICKETS": "Cargando tickets..."
+        "ENGLISH": "Inglés",
+        "IRREVERSIBLE_ACTION": "Esta acción es irreversible",
+        "LANGUAGES": "Idiomas",
+        "SPANISH": "Español"
     },
     "MAIN": {
         "TABS": {
@@ -24,5 +22,11 @@
         "ERRORS": {
             "GENERAL": "An error occurred while scanning the ticket, check if the ticket is valid or its already scanned."
         }
+    },
+    "TICKETS": {
+        "DELETE_TICKET": "Eliminar Ticket",
+        "DELETE_TICKET_QUESTION": "¿Estás seguro de que deseas eliminar este ticket?",
+        "EMPTY_TICKET_LIST": "No hay tickets",
+        "LOADING_TICKETS": "Cargando tickets..."
     }
 }
