@@ -26,7 +26,7 @@
     "TICKETS": {
         "DELETE_TICKET": "Eliminar Ticket",
         "DELETE_TICKET_QUESTION": "¿Estás seguro de que deseas eliminar este ticket?",
-        "EMPTY_TICKET_LIST": "No hay tickets",
+        "EMPTY_TICKET_LIST": "No tienes tickets aun. Prueba a escanear uno.",
         "LOADING_TICKETS": "Cargando tickets..."
     }
 }
