@@ -1,6 +1,7 @@
 {
     "GAMES": {
-        "LN": "Lotería Nacional"
+        "LN": "Lotería Nacional",
+        "MORE_INFO": "More info" 
     },
     "GLOBAL": {
         "ACCEPT": "Accept",
@@ -9,6 +10,8 @@
         "IRREVERSIBLE_ACTION": "This action is irreversible",
         "LANGUAGE": "Language",
         "LANGUAGES": "Languages",
+        "SEARCH": "Search",
+        "SEARCH_MIN_LENGTH_REQUIRED": "Search requires at least {{value1}} characters",
         "SPANISH": "Spanish"
     },
     "MAIN": {
@@ -22,12 +25,17 @@
     "SCAN": {
         "ERRORS": {
             "GENERAL": "An error occurred while scanning the ticket, check if the ticket is valid or its already scanned."
+        },
+        "MESSAGES": {
+            "CHECKING_TICKET": "Checking prizes...",
+            "TAP_SCREEN_TO_SCAN": "Tap the screen to scan a ticket"
         }
     },
     "TICKETS": {
         "DELETE_TICKET": "Delete Ticket",
         "DELETE_TICKET_QUESTION": "Are you sure you want to delete this ticket?",
         "EMPTY_TICKET_LIST": "You don't have any tickets yet. Try scanning one!",
-        "LOADING_TICKETS": "Loading tickets..."
+        "LOADING_TICKETS": "Loading tickets...",
+        "NO_PRIZE_FOR_THIS_TICKET": "No prize for this ticket"
     }
 }
