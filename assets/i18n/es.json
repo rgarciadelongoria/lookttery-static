@@ -1,7 +1,8 @@
 {
     "GAMES": {
         "LN": "Lotería Nacional",
-        "MORE_INFO": "Más información", 
+        "MORE_INFO": "Más información",
+        "EMPTY_GAME_LIST": "No hay juegos disponibles"
     },
     "GLOBAL": {
         "CANCEL": "Cancelar",
@@ -27,7 +28,7 @@
             "GENERAL": "An error occurred while scanning the ticket, check if the ticket is valid or its already scanned."
         },
         "MESSAGES": {
-            "CHECKING_TICKET": "Comprobando resultados...",
+            "CHECKING_TICKETS": "Comprobando resultados...",
             "TAP_SCREEN_TO_SCAN": "Toca la pantalla para continuar escaneando"
         }
     },

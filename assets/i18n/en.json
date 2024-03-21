@@ -1,7 +1,8 @@
 {
     "GAMES": {
         "LN": "Lotería Nacional",
-        "MORE_INFO": "More info" 
+        "MORE_INFO": "More info",
+        "EMPTY_GAME_LIST": "There are no games available at the moment"
     },
     "GLOBAL": {
         "ACCEPT": "Accept",
@@ -27,7 +28,7 @@
             "GENERAL": "An error occurred while scanning the ticket, check if the ticket is valid or its already scanned."
         },
         "MESSAGES": {
-            "CHECKING_TICKET": "Checking prizes...",
+            "CHECKING_TICKETS": "Checking prizes...",
             "TAP_SCREEN_TO_SCAN": "Tap the screen to scan a ticket"
         }
     },
