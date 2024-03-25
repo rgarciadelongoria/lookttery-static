@@ -1,0 +1,1 @@
+var s=class{http;prefix;suffix;constructor(t,i="/assets/i18n/",f=".json"){this.http=t,this.prefix=i,this.suffix=f}getTranslation(t){return this.http.get(`${this.prefix}${t}${this.suffix}`)}};export{s as TranslateHttpLoader};

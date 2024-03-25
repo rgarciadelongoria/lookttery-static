@@ -3,7 +3,7 @@
   "shared": [
     {
       "packageName": "@angular/animations",
-      "outFileName": "angular_animations-17_0_7.js",
+      "outFileName": "_angular_animations-17_0_7.js",
       "requiredVersion": "17.0.7",
       "singleton": true,
       "strictVersion": true,
@@ -11,15 +11,199 @@
     },
     {
       "packageName": "@angular/animations/browser",
-      "outFileName": "angular_animations_browser-17_0_7.js",
+      "outFileName": "_angular_animations_browser-17_0_7.js",
       "requiredVersion": "17.0.7",
       "singleton": true,
       "strictVersion": true,
       "version": "17.0.7"
     },
     {
+      "packageName": "@angular/cdk",
+      "outFileName": "_angular_cdk-17_3_1.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1"
+    },
+    {
+      "packageName": "@angular/cdk/a11y",
+      "outFileName": "_angular_cdk_a11y-17_3_1.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1"
+    },
+    {
+      "packageName": "@angular/cdk/accordion",
+      "outFileName": "_angular_cdk_accordion-17_3_1.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1"
+    },
+    {
+      "packageName": "@angular/cdk/bidi",
+      "outFileName": "_angular_cdk_bidi-17_3_1.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1"
+    },
+    {
+      "packageName": "@angular/cdk/clipboard",
+      "outFileName": "_angular_cdk_clipboard-17_3_1.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1"
+    },
+    {
+      "packageName": "@angular/cdk/coercion",
+      "outFileName": "_angular_cdk_coercion-17_3_1.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1"
+    },
+    {
+      "packageName": "@angular/cdk/collections",
+      "outFileName": "_angular_cdk_collections-17_3_1.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1"
+    },
+    {
+      "packageName": "@angular/cdk/dialog",
+      "outFileName": "_angular_cdk_dialog-17_3_1.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1"
+    },
+    {
+      "packageName": "@angular/cdk/drag-drop",
+      "outFileName": "_angular_cdk_drag_drop-17_3_1.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1"
+    },
+    {
+      "packageName": "@angular/cdk/keycodes",
+      "outFileName": "_angular_cdk_keycodes-17_3_1.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1"
+    },
+    {
+      "packageName": "@angular/cdk/layout",
+      "outFileName": "_angular_cdk_layout-17_3_1.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1"
+    },
+    {
+      "packageName": "@angular/cdk/listbox",
+      "outFileName": "_angular_cdk_listbox-17_3_1.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1"
+    },
+    {
+      "packageName": "@angular/cdk/menu",
+      "outFileName": "_angular_cdk_menu-17_3_1.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1"
+    },
+    {
+      "packageName": "@angular/cdk/observers",
+      "outFileName": "_angular_cdk_observers-17_3_1.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1"
+    },
+    {
+      "packageName": "@angular/cdk/observers/private",
+      "outFileName": "_angular_cdk_observers_private-17_3_1.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1"
+    },
+    {
+      "packageName": "@angular/cdk/overlay",
+      "outFileName": "_angular_cdk_overlay-17_3_1.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1"
+    },
+    {
+      "packageName": "@angular/cdk/platform",
+      "outFileName": "_angular_cdk_platform-17_3_1.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1"
+    },
+    {
+      "packageName": "@angular/cdk/portal",
+      "outFileName": "_angular_cdk_portal-17_3_1.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1"
+    },
+    {
+      "packageName": "@angular/cdk/scrolling",
+      "outFileName": "_angular_cdk_scrolling-17_3_1.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1"
+    },
+    {
+      "packageName": "@angular/cdk/stepper",
+      "outFileName": "_angular_cdk_stepper-17_3_1.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1"
+    },
+    {
+      "packageName": "@angular/cdk/table",
+      "outFileName": "_angular_cdk_table-17_3_1.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1"
+    },
+    {
+      "packageName": "@angular/cdk/text-field",
+      "outFileName": "_angular_cdk_text_field-17_3_1.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1"
+    },
+    {
+      "packageName": "@angular/cdk/tree",
+      "outFileName": "_angular_cdk_tree-17_3_1.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1"
+    },
+    {
       "packageName": "@angular/common",
-      "outFileName": "angular_common-17_0_7.js",
+      "outFileName": "_angular_common-17_0_7.js",
       "requiredVersion": "17.0.7",
       "singleton": true,
       "strictVersion": true,
@@ -27,7 +211,7 @@
     },
     {
       "packageName": "@angular/common/http",
-      "outFileName": "angular_common_http-17_0_7.js",
+      "outFileName": "_angular_common_http-17_0_7.js",
       "requiredVersion": "17.0.7",
       "singleton": true,
       "strictVersion": true,
@@ -35,7 +219,7 @@
     },
     {
       "packageName": "@angular/compiler",
-      "outFileName": "angular_compiler-17_0_7.js",
+      "outFileName": "_angular_compiler-17_0_7.js",
       "requiredVersion": "17.0.7",
       "singleton": true,
       "strictVersion": true,
@@ -43,7 +227,7 @@
     },
     {
       "packageName": "@angular/core",
-      "outFileName": "angular_core-17_0_7.js",
+      "outFileName": "_angular_core-17_0_7.js",
       "requiredVersion": "17.0.7",
       "singleton": true,
       "strictVersion": true,
@@ -51,7 +235,7 @@
     },
     {
       "packageName": "@angular/core/primitives/signals",
-      "outFileName": "angular_core_primitives_signals-17_0_7.js",
+      "outFileName": "_angular_core_primitives_signals-17_0_7.js",
       "requiredVersion": "17.0.7",
       "singleton": true,
       "strictVersion": true,
@@ -59,7 +243,7 @@
     },
     {
       "packageName": "@angular/core/rxjs-interop",
-      "outFileName": "angular_core_rxjs_interop-17_0_7.js",
+      "outFileName": "_angular_core_rxjs_interop-17_0_7.js",
       "requiredVersion": "17.0.7",
       "singleton": true,
       "strictVersion": true,
@@ -67,7 +251,7 @@
     },
     {
       "packageName": "@angular/forms",
-      "outFileName": "angular_forms-17_0_7.js",
+      "outFileName": "_angular_forms-17_0_7.js",
       "requiredVersion": "17.0.7",
       "singleton": true,
       "strictVersion": true,
@@ -75,7 +259,7 @@
     },
     {
       "packageName": "@angular/platform-browser",
-      "outFileName": "angular_platform_browser-17_0_7.js",
+      "outFileName": "_angular_platform_browser-17_0_7.js",
       "requiredVersion": "17.0.7",
       "singleton": true,
       "strictVersion": true,
@@ -83,7 +267,7 @@
     },
     {
       "packageName": "@angular/platform-browser/animations",
-      "outFileName": "angular_platform_browser_animations-17_0_7.js",
+      "outFileName": "_angular_platform_browser_animations-17_0_7.js",
       "requiredVersion": "17.0.7",
       "singleton": true,
       "strictVersion": true,
@@ -91,7 +275,7 @@
     },
     {
       "packageName": "@angular/platform-browser/animations/async",
-      "outFileName": "angular_platform_browser_animations_async-17_0_7.js",
+      "outFileName": "_angular_platform_browser_animations_async-17_0_7.js",
       "requiredVersion": "17.0.7",
       "singleton": true,
       "strictVersion": true,
@@ -99,7 +283,7 @@
     },
     {
       "packageName": "@angular/platform-browser-dynamic",
-      "outFileName": "angular_platform_browser_dynamic-17_0_7.js",
+      "outFileName": "_angular_platform_browser_dynamic-17_0_7.js",
       "requiredVersion": "17.0.7",
       "singleton": true,
       "strictVersion": true,
@@ -107,7 +291,7 @@
     },
     {
       "packageName": "@angular/router",
-      "outFileName": "angular_router-17_0_7.js",
+      "outFileName": "_angular_router-17_0_7.js",
       "requiredVersion": "17.0.7",
       "singleton": true,
       "strictVersion": true,
@@ -115,7 +299,7 @@
     },
     {
       "packageName": "@ionic/angular",
-      "outFileName": "ionic_angular-7_6_1.js",
+      "outFileName": "_ionic_angular-7_6_1.js",
       "requiredVersion": "7.6.1",
       "singleton": true,
       "strictVersion": true,
@@ -123,7 +307,7 @@
     },
     {
       "packageName": "@ionic/angular/common",
-      "outFileName": "ionic_angular_common-7_6_1.js",
+      "outFileName": "_ionic_angular_common-7_6_1.js",
       "requiredVersion": "7.6.1",
       "singleton": true,
       "strictVersion": true,
@@ -131,7 +315,7 @@
     },
     {
       "packageName": "@ionic/angular/standalone",
-      "outFileName": "ionic_angular_standalone-7_6_1.js",
+      "outFileName": "_ionic_angular_standalone-7_6_1.js",
       "requiredVersion": "7.6.1",
       "singleton": true,
       "strictVersion": true,
@@ -139,7 +323,7 @@
     },
     {
       "packageName": "@ngx-translate/core",
-      "outFileName": "ngx_translate_core-15_0_0.js",
+      "outFileName": "_ngx_translate_core-15_0_0.js",
       "requiredVersion": "^15.0.0",
       "singleton": true,
       "strictVersion": true,
@@ -147,7 +331,7 @@
     },
     {
       "packageName": "@ngx-translate/http-loader",
-      "outFileName": "ngx_translate_http_loader-8_0_0.js",
+      "outFileName": "_ngx_translate_http_loader-8_0_0.js",
       "requiredVersion": "^8.0.0",
       "singleton": true,
       "strictVersion": true,
@@ -155,7 +339,7 @@
     },
     {
       "packageName": "@zxing/browser",
-      "outFileName": "zxing_browser-0_1_4.js",
+      "outFileName": "_zxing_browser-0_1_4.js",
       "requiredVersion": "^0.1.4",
       "singleton": true,
       "strictVersion": true,
@@ -163,7 +347,7 @@
     },
     {
       "packageName": "@zxing/library",
-      "outFileName": "zxing_library-0_20_0.js",
+      "outFileName": "_zxing_library-0_20_0.js",
       "requiredVersion": "^0.20.0",
       "singleton": true,
       "strictVersion": true,
@@ -171,7 +355,7 @@
     },
     {
       "packageName": "@zxing/ngx-scanner",
-      "outFileName": "zxing_ngx_scanner-17_0_0.js",
+      "outFileName": "_zxing_ngx_scanner-17_0_0.js",
       "requiredVersion": "^17.0.0",
       "singleton": true,
       "strictVersion": true,
@@ -221,7 +405,7 @@
   "exposes": [
     {
       "key": "./routes",
-      "outFileName": "routes-5NNFZF4Y.js"
+      "outFileName": "routes-S7PSBA7H.js"
     }
   ]
 }

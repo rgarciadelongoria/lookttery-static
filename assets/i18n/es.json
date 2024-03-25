@@ -2,15 +2,18 @@
     "GAMES": {
         "LN": "Lotería Nacional",
         "MORE_INFO": "Más información",
-        "EMPTY_GAME_LIST": "No hay juegos disponibles"
+        "EMPTY_GAME_LIST": "No hay juegos disponibles",
+        "DRAW_PENDING": "Sorteo pendiente"
     },
     "GLOBAL": {
         "CANCEL": "Cancelar",
+        "CONFIG_ACTION": "Esta acción puede configurarse",
         "ACCEPT": "Aceptar",
         "ENGLISH": "Inglés",
         "IRREVERSIBLE_ACTION": "Esta acción es irreversible",
         "LANGUAGE": "Idioma",
         "LANGUAGES": "Idiomas",
+        "LOAD_MORE": "Cargar más",
         "SEARCH": "Buscar",
         "SEARCH_MIN_LENGTH_REQUIRED": "La búsqueda requiere al menos {{value1}} caracteres",
         "SPANISH": "Español"
@@ -18,7 +21,7 @@
     "MAIN": {
         "TABS": {
             "GAMES": "Juegos",
-            "MENU": "Menu",
+            "SETTINGS": "Ajustes",
             "SCAN_NOW": "Escanear",
             "TICKETS": "Tickets"
         }
@@ -38,5 +41,11 @@
         "EMPTY_TICKET_LIST": "No tienes tickets aun. Prueba a escanear uno.",
         "LOADING_TICKETS": "Cargando tickets...",
         "NO_PRIZE_FOR_THIS_TICKET": "No hay premio para este ticket"
+    },
+    "UUID": {
+        "SYNC_DEVICE": "Sincronizar dispositivo",
+        "SYNC_DEVICE_QUESTION": "¿Estás seguro de que deseas sincronizar este dispositivo?",
+        "DESYNC_DEVICE": "Desincronizar dispositivo",
+        "DESYNC_DEVICE_QUESTION": "¿Estás seguro de que deseas desincronizar este dispositivo?"
     }
 }
