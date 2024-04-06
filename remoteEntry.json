@@ -355,11 +355,11 @@
     },
     {
       "packageName": "@zxing/ngx-scanner",
-      "outFileName": "zxing_ngx_scanner-17_0_0.js",
-      "requiredVersion": "^17.0.0",
+      "outFileName": "zxing_ngx_scanner-17_0_1.js",
+      "requiredVersion": "^17.0.1",
       "singleton": true,
       "strictVersion": true,
-      "version": "17.0.0"
+      "version": "17.0.1"
     },
     {
       "packageName": "ng-qrcode",
@@ -405,7 +405,7 @@
   "exposes": [
     {
       "key": "./routes",
-      "outFileName": "routes-S7PSBA7H.js"
+      "outFileName": "routes-T4CA7NX5.js"
     }
   ]
 }

@@ -44,7 +44,7 @@
     "@ngx-translate/http-loader": "ngx_translate_http_loader-8_0_0.js",
     "@zxing/browser": "zxing_browser-0_1_4.js",
     "@zxing/library": "zxing_library-0_20_0.js",
-    "@zxing/ngx-scanner": "zxing_ngx_scanner-17_0_0.js",
+    "@zxing/ngx-scanner": "zxing_ngx_scanner-17_0_1.js",
     "ng-qrcode": "ng_qrcode-17_0_0.js",
     "rxjs": "rxjs-7_8_1.js",
     "rxjs/operators": "rxjs_operators-7_8_1.js",
