@@ -362,6 +362,14 @@
       "version": "17.0.1"
     },
     {
+      "packageName": "browserslist",
+      "outFileName": "browserslist-4_23_0.js",
+      "requiredVersion": "^4.23.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "4.23.0"
+    },
+    {
       "packageName": "ng-qrcode",
       "outFileName": "ng_qrcode-17_0_0.js",
       "requiredVersion": "^17.0.0",
