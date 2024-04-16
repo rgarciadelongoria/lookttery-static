@@ -8,6 +8,7 @@
     "GLOBAL": {
         "ACCEPT": "Accept",
         "CANCEL": "Cancel",
+        "CONTINUE": "Continue",
         "CONFIG_ACTION": "This action can be configured",
         "ENGLISH": "English",
         "IRREVERSIBLE_ACTION": "This action is irreversible",
@@ -24,6 +25,20 @@
             "SETTINGS": "Settings",
             "SCAN_NOW": "Scan Now",
             "TICKETS": "Tickets"
+        }
+    },
+    "ONBOARDING": {
+        "LANGUAGE": {
+            "DESCRIPTION": "Select the language you want to use in the app",
+            "TITLE": "Language"
+        },
+        "CAMERA_PERMISSION": {
+            "DESCRIPTION": "This app needs access to your camera to scan tickets, you can use the app without this permission but you won't be able to scan tickets.",
+            "TITLE": "Camera permission"
+        },
+        "NOTIFICATIONS_PERMISSION": {
+            "DESCRIPTION": "This app needs access to your notifications to notify you about the results of the games, you can use the app without this permission but you won't receive any notifications.",
+            "TITLE": "Notifications permission"
         }
     },
     "SCAN": {

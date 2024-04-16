@@ -8,6 +8,7 @@
     "GLOBAL": {
         "CANCEL": "Cancelar",
         "CONFIG_ACTION": "Esta acción puede configurarse",
+        "CONTINUE": "Continuar",
         "ACCEPT": "Aceptar",
         "ENGLISH": "Inglés",
         "IRREVERSIBLE_ACTION": "Esta acción es irreversible",
@@ -24,6 +25,20 @@
             "SETTINGS": "Ajustes",
             "SCAN_NOW": "Escanear",
             "TICKETS": "Tickets"
+        }
+    },
+    "ONBOARDING": {
+        "LANGUAGE": {
+            "DESCRIPTION": "Selecciona tu idioma preferido",
+            "TITLE": "Idioma"
+        },
+        "CAMERA_PERMISSION": {
+            "DESCRIPTION": "Esta aplicación necesita acceso a su cámara para escanear boletos. Puede usar la aplicación sin este permiso pero no podrá escanear boletos.",
+            "TITLE": "Permiso de cámara"
+        },
+        "NOTIFICATIONS_PERMISSION": {
+            "DESCRIPTION": "Esta aplicación necesita acceso a sus notificaciones para enviarle recordatorios de los sorteos. Puede usar la aplicación sin este permiso pero no recibirá recordatorios.",
+            "TITLE": "Permiso de notificaciones"
         }
     },
     "SCAN": {
