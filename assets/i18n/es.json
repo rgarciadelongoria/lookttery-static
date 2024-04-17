@@ -15,6 +15,7 @@
         "LANGUAGE": "Idioma",
         "LANGUAGES": "Idiomas",
         "LOAD_MORE": "Cargar más",
+        "REQUEST_PERMISSION": "Solicitar permiso",
         "SEARCH": "Buscar",
         "SEARCH_MIN_LENGTH_REQUIRED": "La búsqueda requiere al menos {{value1}} caracteres",
         "SPANISH": "Español"
@@ -38,7 +39,8 @@
         },
         "NOTIFICATIONS_PERMISSION": {
             "DESCRIPTION": "Esta aplicación necesita acceso a sus notificaciones para enviarle recordatorios de los sorteos. Puede usar la aplicación sin este permiso pero no recibirá recordatorios.",
-            "TITLE": "Permiso de notificaciones"
+            "TITLE": "Permiso de notificaciones",
+            "DENIED": "No tienes permiso para recibir notificaciones, puedes cambiarlo en la configuración de tu dispositivo."
         }
     },
     "SCAN": {
@@ -62,5 +64,8 @@
         "SYNC_DEVICE_QUESTION": "¿Estás seguro de que deseas sincronizar este dispositivo?",
         "DESYNC_DEVICE": "Desincronizar dispositivo",
         "DESYNC_DEVICE_QUESTION": "¿Estás seguro de que deseas desincronizar este dispositivo?"
+    },
+    "CONFIG": {
+        "LAUNCH_ONBOARDING": "Lanzar Onboarding"
     }
 }

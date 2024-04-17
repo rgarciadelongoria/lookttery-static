@@ -15,6 +15,7 @@
         "LANGUAGE": "Language",
         "LANGUAGES": "Languages",
         "LOAD_MORE": "Load more",
+        "REQUEST_PERMISSION": "Request permission",
         "SEARCH": "Search",
         "SEARCH_MIN_LENGTH_REQUIRED": "Search requires at least {{value1}} characters",
         "SPANISH": "Spanish"
@@ -38,7 +39,8 @@
         },
         "NOTIFICATIONS_PERMISSION": {
             "DESCRIPTION": "This app needs access to your notifications to notify you about the results of the games, you can use the app without this permission but you won't receive any notifications.",
-            "TITLE": "Notifications permission"
+            "TITLE": "Notifications permission",
+            "DENIED": "You don't have notifications permission, you can enable it in the app settings."
         }
     },
     "SCAN": {
@@ -62,5 +64,8 @@
         "SYNC_DEVICE_QUESTION": "Are you sure you want to sync this device?",
         "DESYNC_DEVICE": "Desync device",
         "DESYNC_DEVICE_QUESTION": "Are you sure you want to desync this device?"
+    },
+    "CONFIG": {
+        "LAUNCH_ONBOARDING": "Launch onboarding"
     }
 }
