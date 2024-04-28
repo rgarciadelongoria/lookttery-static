@@ -7,20 +7,25 @@
     },
     "GLOBAL": {
         "ACCEPT": "Accept",
+        "BASQUE": "Basque",
         "CANCEL": "Cancel",
+        "CATALAN": "Catalan",
         "CONTINUE": "Continue",
         "CONFIG_ACTION": "This action can be configured",
         "ENGLISH": "English",
+        "GALICIAN": "Galician",
         "ID": "Identifier",
         "IRREVERSIBLE_ACTION": "This action is irreversible",
         "LANGUAGE": "Language",
         "LANGUAGES": "Languages",
         "LOAD_MORE": "Load more",
         "NOTIFICATIONS": "Notifications",
+        "PUSH_TOKEN": "Notification token",
         "REQUEST_PERMISSION": "Request permission",
         "SEARCH": "Search",
         "SEARCH_MIN_LENGTH_REQUIRED": "Search requires at least {{value1}} characters",
-        "SPANISH": "Spanish"
+        "SPANISH": "Spanish",
+        "USER_ID": "User ID"
     },
     "MAIN": {
         "TABS": {

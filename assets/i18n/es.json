@@ -6,21 +6,26 @@
         "DRAW_PENDING": "Sorteo pendiente"
     },
     "GLOBAL": {
+        "ACCEPT": "Aceptar",
+        "BASQUE": "Vasco",
         "CANCEL": "Cancelar",
+        "CATALAN": "Catalán",
         "CONFIG_ACTION": "Esta acción puede configurarse",
         "CONTINUE": "Continuar",
-        "ACCEPT": "Aceptar",
         "ENGLISH": "Inglés",
+        "GALICIAN": "Gallego",
         "ID": "Identificador",
         "IRREVERSIBLE_ACTION": "Esta acción es irreversible",
         "LANGUAGE": "Idioma",
         "LANGUAGES": "Idiomas",
         "LOAD_MORE": "Cargar más",
         "NOTIFICATIONS": "Notificaciones",
+        "PUSH_TOKEN": "Token de notificaciones",
         "REQUEST_PERMISSION": "Solicitar permiso",
         "SEARCH": "Buscar",
         "SEARCH_MIN_LENGTH_REQUIRED": "La búsqueda requiere al menos {{value1}} caracteres",
-        "SPANISH": "Español"
+        "SPANISH": "Español",
+        "USER_ID": "ID de usuario"
     },
     "MAIN": {
         "TABS": {

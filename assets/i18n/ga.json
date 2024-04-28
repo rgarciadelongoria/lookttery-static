@@ -1,0 +1,78 @@
+{
+    "GAMES": {
+        "LN": "Lotería Nacional",
+        "MORE_INFO": "Máis información",
+        "EMPTY_GAME_LIST": "Actualmente non hai xogos dispoñibles",
+        "DRAW_PENDING": "Sorteo pendente"
+    },
+    "GLOBAL": {
+        "ACCEPT": "Aceptar",
+        "BASQUE": "Basco",
+        "CANCEL": "Cancelar",
+        "CATALAN": "Catalán",
+        "CONTINUE": "Continuar",
+        "CONFIG_ACTION": "Esta acción pode ser configurada",
+        "ENGLISH": "Inglés",
+        "GALICIAN": "Galego",
+        "ID": "Identificador",
+        "IRREVERSIBLE_ACTION": "Esta acción é irreversible",
+        "LANGUAGE": "Idioma",
+        "LANGUAGES": "Idiomas",
+        "LOAD_MORE": "Cargar máis",
+        "NOTIFICATIONS": "Notificacións",
+        "PUSH_TOKEN": "Token de notificación",
+        "REQUEST_PERMISSION": "Solicitar permiso",
+        "SEARCH": "Buscar",
+        "SEARCH_MIN_LENGTH_REQUIRED": "A busca require polo menos {{value1}} caracteres",
+        "SPANISH": "Español",
+        "USER_ID": "ID de usuario"
+    },
+    "MAIN": {
+        "TABS": {
+            "GAMES": "Xogos",
+            "SETTINGS": "Axustes",
+            "SCAN_NOW": "Escanear agora",
+            "TICKETS": "Tíquets"
+        }
+    },
+    "ONBOARDING": {
+        "LANGUAGE": {
+            "DESCRIPTION": "Seleccione o idioma que desexa usar na aplicación",
+            "TITLE": "Idioma"
+        },
+        "CAMERA_PERMISSION": {
+            "DESCRIPTION": "Esta aplicación necesita acceder á súa cámara para escanear tíquets, pode usar a aplicación sen este permiso pero non poderá escanear tíquets.",
+            "TITLE": "Permiso da cámara"
+        },
+        "NOTIFICATIONS_PERMISSION": {
+            "DESCRIPTION": "Esta aplicación necesita acceder ás súas notificacións para notificarlle sobre os resultados dos xogos, pode usar a aplicación sen este permiso pero non recibirá ningunha notificación.",
+            "TITLE": "Permiso de notificacións",
+            "DENIED": "Non ten permiso de notificacións, pode habilitalo na configuración da aplicación."
+        }
+    },
+    "SCAN": {
+        "ERRORS": {
+            "GENERAL": "Produciuse un erro ao escanear o tíquet, comprobe se o tíquet é válido ou xa foi escaneado."
+        },
+        "MESSAGES": {
+            "CHECKING_TICKETS": "Comprobando premios...",
+            "TAP_SCREEN_TO_SCAN": "Toque a pantalla para escanear un tíquet"
+        }
+    },
+    "TICKETS": {
+        "DELETE_TICKET": "Eliminar tíquet",
+        "DELETE_TICKET_QUESTION": "Está seguro de que quere eliminar este tíquet?",
+        "EMPTY_TICKET_LIST": "Aínda non ten ningún tíquet. Probe escanear un!",
+        "LOADING_TICKETS": "Cargando tíquets...",
+        "NO_PRIZE_FOR_THIS_TICKET": "Sen premio para este tíquet"
+    },
+    "UUID": {
+        "SYNC_DEVICE": "Sincronizar dispositivo",
+        "SYNC_DEVICE_QUESTION": "Está seguro de que quere sincronizar este dispositivo?",
+        "DESYNC_DEVICE": "Desincronizar dispositivo",
+        "DESYNC_DEVICE_QUESTION": "Está seguro de que quere desincronizar este dispositivo?"
+    },
+    "CONFIG": {
+        "LAUNCH_ONBOARDING": "Iniciar o asistente de inicio"
+    }
+}

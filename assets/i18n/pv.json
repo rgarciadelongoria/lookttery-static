@@ -1,0 +1,78 @@
+{
+    "GAMES": {
+        "LN": "Loteria Nazionala",
+        "MORE_INFO": "Informazio gehiago",
+        "EMPTY_GAME_LIST": "Ez dago joko eskuragarri momentu honetan",
+        "DRAW_PENDING": "Zozketaren zain"
+    },
+    "GLOBAL": {
+        "ACCEPT": "Onartu",
+        "BASQUE": "Euskara",
+        "CANCEL": "Ezeztatu",
+        "CATALAN": "Katalana",
+        "CONTINUE": "Jarraitu",
+        "CONFIG_ACTION": "Ekintza hau konfiguratzen daiteke",
+        "ENGLISH": "Ingelesa",
+        "GALICIAN": "Galiziera",
+        "ID": "Identifikatzailea",
+        "IRREVERSIBLE_ACTION": "Ekintza hau ezin da aldatu",
+        "LANGUAGE": "Hizkuntza",
+        "LANGUAGES": "Hizkuntzak",
+        "LOAD_MORE": "Gehiago kargatu",
+        "NOTIFICATIONS": "Jakinarazpenak",
+        "PUSH_TOKEN": "Jakinarazpen tokena",
+        "REQUEST_PERMISSION": "Baimena eskatu",
+        "SEARCH": "Bilatu",
+        "SEARCH_MIN_LENGTH_REQUIRED": "Bilaketa {{value1}} karaktere gutxienez behar du",
+        "SPANISH": "Espainiera",
+        "USER_ID": "Erabiltzaile ID-a"
+    },
+    "MAIN": {
+        "TABS": {
+            "GAMES": "Jokoa",
+            "SETTINGS": "Ezarpenak",
+            "SCAN_NOW": "Eskaneatu Orain",
+            "TICKETS": "Tiketak"
+        }
+    },
+    "ONBOARDING": {
+        "LANGUAGE": {
+            "DESCRIPTION": "Aukeratu aplikazioan erabili nahi duzun hizkuntza",
+            "TITLE": "Hizkuntza"
+        },
+        "CAMERA_PERMISSION": {
+            "DESCRIPTION": "Aplikazio honek zure kamerara sartzeko baimena behar du txartelak eskaneatzeko, baimen hori gabe ere erabili dezakezu aplikazioa baina ezin izango duzu txartelak eskaneatu.",
+            "TITLE": "Kamera baimena"
+        },
+        "NOTIFICATIONS_PERMISSION": {
+            "DESCRIPTION": "Aplikazio honek zure jakinarazpenetarako baimena behar du jokoetako emaitzak jakinarazteko, baimen hori gabe ere erabili dezakezu aplikazioa baina ez dagozu jakinarazpenik jasoko.",
+            "TITLE": "Jakinarazpenen baimena",
+            "DENIED": "Ez duzu jakinarazpen baimenik, aplikazioaren ezarpenetan gaitu dezakezu."
+        }
+    },
+    "SCAN": {
+        "ERRORS": {
+            "GENERAL": "Errorea gertatu da txartela eskaneatzean, egiaztatu txartela egokia den ala jada eskaneatuta dagoen."
+        },
+        "MESSAGES": {
+            "CHECKING_TICKETS": "Sariak egiaztatzen...",
+            "TAP_SCREEN_TO_SCAN": "Eskaneatzeko pantaila sakatu"
+        }
+    },
+    "TICKETS": {
+        "DELETE_TICKET": "Tiketa ezabatu",
+        "DELETE_TICKET_QUESTION": "Ziur zaude tiketa hau ezabatu nahi duzula?",
+        "EMPTY_TICKET_LIST": "Oraindik ez duzu tiketarik. Saiatu bat eskaneatzen!",
+        "LOADING_TICKETS": "Tiketak kargatzen...",
+        "NO_PRIZE_FOR_THIS_TICKET": "Ez dago sari tiketerako"
+    },
+    "UUID": {
+        "SYNC_DEVICE": "Gizakiak sinkronizatu",
+        "SYNC_DEVICE_QUESTION": "Ziur zaude gailu hau sinkronizatu nahi duzula?",
+        "DESYNC_DEVICE": "Gizakiak desinkronizatu",
+        "DESYNC_DEVICE_QUESTION": "Ziur zaude gailu hau desinkronizatu nahi duzula?"
+    },
+    "CONFIG": {
+        "LAUNCH_ONBOARDING": "Bistaratu sarrera gida"
+    }
+}
