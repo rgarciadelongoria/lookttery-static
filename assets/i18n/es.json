@@ -1,78 +1,98 @@
 {
     "GAMES": {
+        "CATEGORY": "Categoría",
+        "DRAW_PENDING": "Sorteo pendiente",
+        "EMPTY_GAME_LIST": "No hay juegos disponibles en este momento",
+        "JOKER_CATEGORY_1": "1 - (Todos):",
+        "JOKER_CATEGORY_2": "2 - (6 Primeros o últimos):",
+        "JOKER_CATEGORY_3": "3 - (5 Primeros o últimos):",
+        "JOKER_CATEGORY_4": "4 - (4 Primeros o últimos):",
+        "JOKER_CATEGORY_5": "5 - (3 Primeros o últimos):",
+        "JOKER_CATEGORY_6": "6 - (2 Primeros o últimos):",
+        "JOKER_CATEGORY_7": "7 - (Primeros o últimos):",
         "LN": "Lotería Nacional",
         "MORE_INFO": "Más información",
-        "EMPTY_GAME_LIST": "No hay juegos disponibles",
-        "DRAW_PENDING": "Sorteo pendiente"
+        "PR_CATEGORY_1": "S - (6 Aciertos + R):",
+        "PR_CATEGORY_2": "1 - (6 Aciertos):",
+        "PR_CATEGORY_3": "2 - (5 Aciertos + C):",
+        "PR_CATEGORY_4": "3 - (5 Aciertos):",
+        "PR_CATEGORY_5": "4 - (4 Aciertos):",
+        "PR_CATEGORY_6": "5 - (3 Aciertos):",
+        "PR_CATEGORY_7": "6 - (Reintegro):"
     },
     "GLOBAL": {
         "ACCEPT": "Aceptar",
-        "BASQUE": "Vasco",
+        "ADVANCED_INFO": "Información avanzada",
+        "BASQUE": "Euskera",
+        "BUY_ME_A_COFFEE": "Cómprame un café",
         "CANCEL": "Cancelar",
         "CATALAN": "Catalán",
-        "CONFIG_ACTION": "Esta acción puede configurarse",
+        "CONFIG_ACTION": "Esta acción se puede configurar",
         "CONTINUE": "Continuar",
         "ENGLISH": "Inglés",
         "GALICIAN": "Gallego",
         "ID": "Identificador",
+        "INVALID_CODE_TEXT": "Este código no es válido, tal vez este juego no esté disponible en este momento, inténtalo de nuevo más tarde.",
+        "INVALID_CODE": "Código inválido",
+        "INVALID_GAME": "Juego inválido",
         "IRREVERSIBLE_ACTION": "Esta acción es irreversible",
         "LANGUAGE": "Idioma",
         "LANGUAGES": "Idiomas",
         "LOAD_MORE": "Cargar más",
         "NOTIFICATIONS": "Notificaciones",
-        "PUSH_TOKEN": "Token de notificaciones",
+        "PUSH_TOKEN": "Token de notificación",
         "REQUEST_PERMISSION": "Solicitar permiso",
-        "SEARCH": "Buscar",
         "SEARCH_MIN_LENGTH_REQUIRED": "La búsqueda requiere al menos {{value1}} caracteres",
+        "SEARCH": "Buscar",
         "SPANISH": "Español",
         "USER_ID": "ID de usuario"
     },
     "MAIN": {
         "TABS": {
             "GAMES": "Juegos",
-            "SETTINGS": "Ajustes",
-            "SCAN_NOW": "Escanear",
-            "TICKETS": "Tickets"
+            "SCAN_NOW": "Escanear ahora",
+            "SETTINGS": "Configuración",
+            "TICKETS": "Boletos"
         }
     },
     "ONBOARDING": {
         "LANGUAGE": {
-            "DESCRIPTION": "Selecciona tu idioma preferido",
+            "DESCRIPTION": "Selecciona el idioma que deseas usar en la aplicación",
             "TITLE": "Idioma"
         },
         "CAMERA_PERMISSION": {
-            "DESCRIPTION": "Esta aplicación necesita acceso a su cámara para escanear boletos. Puede usar la aplicación sin este permiso pero no podrá escanear boletos.",
+            "DESCRIPTION": "Esta aplicación necesita acceso a tu cámara para escanear boletos, puedes usar la aplicación sin este permiso pero no podrás escanear boletos.",
             "TITLE": "Permiso de cámara"
         },
         "NOTIFICATIONS_PERMISSION": {
-            "DESCRIPTION": "Esta aplicación necesita acceso a sus notificaciones para enviarle recordatorios de los sorteos. Puede usar la aplicación sin este permiso pero no recibirá recordatorios.",
+            "DESCRIPTION": "Esta aplicación necesita acceso a tus notificaciones para informarte sobre los resultados de los juegos, puedes usar la aplicación sin este permiso pero no recibirás ninguna notificación.",
             "TITLE": "Permiso de notificaciones",
-            "DENIED": "No tienes permiso para recibir notificaciones, puedes cambiarlo en la configuración de tu dispositivo."
+            "DENIED": "No tienes permiso de notificaciones, puedes habilitarlo en la configuración de la aplicación."
         }
     },
     "SCAN": {
         "ERRORS": {
-            "GENERAL": "An error occurred while scanning the ticket, check if the ticket is valid or its already scanned."
+            "GENERAL": "Ocurrió un error al escanear el boleto, verifica si el boleto es válido o si ya está escaneado."
         },
         "MESSAGES": {
-            "CHECKING_TICKETS": "Comprobando resultados...",
-            "TAP_SCREEN_TO_SCAN": "Toca la pantalla para continuar escaneando"
+            "CHECKING_TICKETS": "Verificando premios...",
+            "TAP_SCREEN_TO_SCAN": "Toca la pantalla para escanear un boleto"
         }
     },
     "TICKETS": {
-        "DELETE_TICKET": "Eliminar Ticket",
-        "DELETE_TICKET_QUESTION": "¿Estás seguro de que deseas eliminar este ticket?",
-        "EMPTY_TICKET_LIST": "No tienes tickets aun. Prueba a escanear uno.",
-        "LOADING_TICKETS": "Cargando tickets...",
-        "NO_PRIZE_FOR_THIS_TICKET": "No hay premio para este ticket"
+        "DELETE_TICKET": "Eliminar boleto",
+        "DELETE_TICKET_QUESTION": "¿Estás seguro de que deseas eliminar este boleto?",
+        "EMPTY_TICKET_LIST": "Aún no tienes boletos. ¡Intenta escanear uno!",
+        "LOADING_TICKETS": "Cargando boletos...",
+        "NO_PRIZE_FOR_THIS_TICKET": "Sin premio para este boleto"
     },
     "UUID": {
-        "SYNC_DEVICE": "Sincronizar dispositivo",
-        "SYNC_DEVICE_QUESTION": "¿Estás seguro de que deseas sincronizar este dispositivo?",
+        "DESYNC_DEVICE_QUESTION": "¿Estás seguro de que deseas desincronizar este dispositivo?",
         "DESYNC_DEVICE": "Desincronizar dispositivo",
-        "DESYNC_DEVICE_QUESTION": "¿Estás seguro de que deseas desincronizar este dispositivo?"
+        "SYNC_DEVICE_QUESTION": "¿Estás seguro de que deseas sincronizar este dispositivo?",
+        "SYNC_DEVICE": "Sincronizar dispositivo"
     },
     "CONFIG": {
-        "LAUNCH_ONBOARDING": "Lanzar Onboarding"
+        "LAUNCH_ONBOARDING": "Iniciar introducción"
     }
 }

@@ -1,78 +1,98 @@
 {
     "GAMES": {
-        "LN": "Loteria Nazionala",
+        "CATEGORY": "Kategoria",
+        "DRAW_PENDING": "Zozketa zain",
+        "EMPTY_GAME_LIST": "Ez dago momentuz eskuragarri dagoen jorik",
+        "JOKER_CATEGORY_1": "1 - (Guztiak):",
+        "JOKER_CATEGORY_2": "2 - (6 Lehen edo azken):",
+        "JOKER_CATEGORY_3": "3 - (5 Lehen edo azken):",
+        "JOKER_CATEGORY_4": "4 - (4 Lehen edo azken):",
+        "JOKER_CATEGORY_5": "5 - (3 Lehen edo azken):",
+        "JOKER_CATEGORY_6": "6 - (2 Lehen edo azken):",
+        "JOKER_CATEGORY_7": "7 - (Lehen edo azken):",
+        "LN": "Lotería Nazionala",
         "MORE_INFO": "Informazio gehiago",
-        "EMPTY_GAME_LIST": "Ez dago joko eskuragarri momentu honetan",
-        "DRAW_PENDING": "Zozketaren zain"
+        "PR_CATEGORY_1": "S - (6 Asmakizun + R):",
+        "PR_CATEGORY_2": "1 - (6 Asmakizun):",
+        "PR_CATEGORY_3": "2 - (5 Asmakizun + C):",
+        "PR_CATEGORY_4": "3 - (5 Asmakizun):",
+        "PR_CATEGORY_5": "4 - (4 Asmakizun):",
+        "PR_CATEGORY_6": "5 - (3 Asmakizun):",
+        "PR_CATEGORY_7": "6 - (Itzulketa):"
     },
     "GLOBAL": {
         "ACCEPT": "Onartu",
+        "ADVANCED_INFO": "Informazio aurreratua",
         "BASQUE": "Euskara",
-        "CANCEL": "Ezeztatu",
+        "BUY_ME_A_COFFEE": "Erosi kafe bat",
+        "CANCEL": "Utzi",
         "CATALAN": "Katalana",
+        "CONFIG_ACTION": "Ekintza hau konfigura daiteke",
         "CONTINUE": "Jarraitu",
-        "CONFIG_ACTION": "Ekintza hau konfiguratzen daiteke",
         "ENGLISH": "Ingelesa",
         "GALICIAN": "Galiziera",
-        "ID": "Identifikatzailea",
-        "IRREVERSIBLE_ACTION": "Ekintza hau ezin da aldatu",
+        "ID": "Identifikadorea",
+        "INVALID_CODE_TEXT": "Kode hau baliogabea da, agian joko hau ez dago eskuragarri momentuz, saiatu berriro beranduago.",
+        "INVALID_CODE": "Kode baliogabea",
+        "INVALID_GAME": "Joko baliogabea",
+        "IRREVERSIBLE_ACTION": "Ekintza hau atzeraezina da",
         "LANGUAGE": "Hizkuntza",
         "LANGUAGES": "Hizkuntzak",
-        "LOAD_MORE": "Gehiago kargatu",
+        "LOAD_MORE": "Kargatu gehiago",
         "NOTIFICATIONS": "Jakinarazpenak",
         "PUSH_TOKEN": "Jakinarazpen tokena",
         "REQUEST_PERMISSION": "Baimena eskatu",
+        "SEARCH_MIN_LENGTH_REQUIRED": "Bilaketak gutxienez {{value1}} karaktere behar ditu",
         "SEARCH": "Bilatu",
-        "SEARCH_MIN_LENGTH_REQUIRED": "Bilaketa {{value1}} karaktere gutxienez behar du",
         "SPANISH": "Espainiera",
-        "USER_ID": "Erabiltzaile ID-a"
+        "USER_ID": "Erabiltzaile IDa"
     },
     "MAIN": {
         "TABS": {
-            "GAMES": "Jokoa",
+            "GAMES": "Jokoak",
+            "SCAN_NOW": "Eskaneatu orain",
             "SETTINGS": "Ezarpenak",
-            "SCAN_NOW": "Eskaneatu Orain",
-            "TICKETS": "Tiketak"
+            "TICKETS": "Txartelak"
         }
     },
     "ONBOARDING": {
         "LANGUAGE": {
-            "DESCRIPTION": "Aukeratu aplikazioan erabili nahi duzun hizkuntza",
+            "DESCRIPTION": "Hautatu aplikazioan erabili nahi duzun hizkuntza",
             "TITLE": "Hizkuntza"
         },
         "CAMERA_PERMISSION": {
-            "DESCRIPTION": "Aplikazio honek zure kamerara sartzeko baimena behar du txartelak eskaneatzeko, baimen hori gabe ere erabili dezakezu aplikazioa baina ezin izango duzu txartelak eskaneatu.",
+            "DESCRIPTION": "Aplikazio honek zure kamerara sarbidea behar du txartelak eskaneatzeko, aplikazioa erabili dezakezu baimen horiek gabe baina ezin izango duzu txartelak eskaneatu.",
             "TITLE": "Kamera baimena"
         },
         "NOTIFICATIONS_PERMISSION": {
-            "DESCRIPTION": "Aplikazio honek zure jakinarazpenetarako baimena behar du jokoetako emaitzak jakinarazteko, baimen hori gabe ere erabili dezakezu aplikazioa baina ez dagozu jakinarazpenik jasoko.",
+            "DESCRIPTION": "Aplikazio honek zure jakinarazpenetara sarbidea behar du jokoen emaitzak jakinarazteko, aplikazioa erabili dezakezu baimen horiek gabe baina ez duzu jakinarazpenik jasoko.",
             "TITLE": "Jakinarazpenen baimena",
-            "DENIED": "Ez duzu jakinarazpen baimenik, aplikazioaren ezarpenetan gaitu dezakezu."
+            "DENIED": "Ez duzu jakinarazpenen baimenik, aplikazioaren ezarpenetan gaitu dezakezu."
         }
     },
     "SCAN": {
         "ERRORS": {
-            "GENERAL": "Errorea gertatu da txartela eskaneatzean, egiaztatu txartela egokia den ala jada eskaneatuta dagoen."
+            "GENERAL": "Errore bat gertatu da txartela eskaneatzerakoan, egiaztatu txartela balioduna den edo dagoeneko eskaneatuta dagoen."
         },
         "MESSAGES": {
             "CHECKING_TICKETS": "Sariak egiaztatzen...",
-            "TAP_SCREEN_TO_SCAN": "Eskaneatzeko pantaila sakatu"
+            "TAP_SCREEN_TO_SCAN": "Ukitu pantaila txartela eskaneatzeko"
         }
     },
     "TICKETS": {
-        "DELETE_TICKET": "Tiketa ezabatu",
-        "DELETE_TICKET_QUESTION": "Ziur zaude tiketa hau ezabatu nahi duzula?",
-        "EMPTY_TICKET_LIST": "Oraindik ez duzu tiketarik. Saiatu bat eskaneatzen!",
-        "LOADING_TICKETS": "Tiketak kargatzen...",
-        "NO_PRIZE_FOR_THIS_TICKET": "Ez dago sari tiketerako"
+        "DELETE_TICKET": "Ezabatu txartela",
+        "DELETE_TICKET_QUESTION": "Ziur zaude txartel hau ezabatu nahi duzula?",
+        "EMPTY_TICKET_LIST": "Oraindik ez duzu txartelik. Saiatu bat eskaneatzen!",
+        "LOADING_TICKETS": "Txartelak kargatzen...",
+        "NO_PRIZE_FOR_THIS_TICKET": "Ez dago saririk txartel honentzat"
     },
     "UUID": {
-        "SYNC_DEVICE": "Gizakiak sinkronizatu",
+        "DESYNC_DEVICE_QUESTION": "Ziur zaude gailu hau desinkronizatu nahi duzula?",
+        "DESYNC_DEVICE": "Desinkronizatu gailua",
         "SYNC_DEVICE_QUESTION": "Ziur zaude gailu hau sinkronizatu nahi duzula?",
-        "DESYNC_DEVICE": "Gizakiak desinkronizatu",
-        "DESYNC_DEVICE_QUESTION": "Ziur zaude gailu hau desinkronizatu nahi duzula?"
+        "SYNC_DEVICE": "Sinkronizatu gailua"
     },
     "CONFIG": {
-        "LAUNCH_ONBOARDING": "Bistaratu sarrera gida"
+        "LAUNCH_ONBOARDING": "Abiarazi hasiera"
     }
 }

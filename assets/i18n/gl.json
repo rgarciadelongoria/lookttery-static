@@ -1,20 +1,40 @@
 {
     "GAMES": {
+        "CATEGORY": "Categoría",
+        "DRAW_PENDING": "Sorteo pendente",
+        "EMPTY_GAME_LIST": "Non hai xogos dispoñibles neste momento",
+        "JOKER_CATEGORY_1": "1 - (Todos):",
+        "JOKER_CATEGORY_2": "2 - (6 Primeiros ou últimos):",
+        "JOKER_CATEGORY_3": "3 - (5 Primeiros ou últimos):",
+        "JOKER_CATEGORY_4": "4 - (4 Primeiros ou últimos):",
+        "JOKER_CATEGORY_5": "5 - (3 Primeiros ou últimos):",
+        "JOKER_CATEGORY_6": "6 - (2 Primeiros ou últimos):",
+        "JOKER_CATEGORY_7": "7 - (Primeiros ou últimos):",
         "LN": "Lotería Nacional",
         "MORE_INFO": "Máis información",
-        "EMPTY_GAME_LIST": "Actualmente non hai xogos dispoñibles",
-        "DRAW_PENDING": "Sorteo pendente"
+        "PR_CATEGORY_1": "S - (6 Aciertos + R):",
+        "PR_CATEGORY_2": "1 - (6 Aciertos):",
+        "PR_CATEGORY_3": "2 - (5 Aciertos + C):",
+        "PR_CATEGORY_4": "3 - (5 Aciertos):",
+        "PR_CATEGORY_5": "4 - (4 Aciertos):",
+        "PR_CATEGORY_6": "5 - (3 Aciertos):",
+        "PR_CATEGORY_7": "6 - (Reintegro):"
     },
     "GLOBAL": {
         "ACCEPT": "Aceptar",
-        "BASQUE": "Basco",
+        "ADVANCED_INFO": "Información avanzada",
+        "BASQUE": "Eúscaro",
+        "BUY_ME_A_COFFEE": "Cómprame un café",
         "CANCEL": "Cancelar",
         "CATALAN": "Catalán",
+        "CONFIG_ACTION": "Esta acción pódese configurar",
         "CONTINUE": "Continuar",
-        "CONFIG_ACTION": "Esta acción pode ser configurada",
         "ENGLISH": "Inglés",
         "GALICIAN": "Galego",
         "ID": "Identificador",
+        "INVALID_CODE_TEXT": "Este código non é válido, pode que este xogo non estea dispoñible neste momento, inténteo de novo máis tarde.",
+        "INVALID_CODE": "Código inválido",
+        "INVALID_GAME": "Xogo inválido",
         "IRREVERSIBLE_ACTION": "Esta acción é irreversible",
         "LANGUAGE": "Idioma",
         "LANGUAGES": "Idiomas",
@@ -22,57 +42,57 @@
         "NOTIFICATIONS": "Notificacións",
         "PUSH_TOKEN": "Token de notificación",
         "REQUEST_PERMISSION": "Solicitar permiso",
-        "SEARCH": "Buscar",
         "SEARCH_MIN_LENGTH_REQUIRED": "A busca require polo menos {{value1}} caracteres",
+        "SEARCH": "Buscar",
         "SPANISH": "Español",
         "USER_ID": "ID de usuario"
     },
     "MAIN": {
         "TABS": {
             "GAMES": "Xogos",
-            "SETTINGS": "Axustes",
             "SCAN_NOW": "Escanear agora",
-            "TICKETS": "Tíquets"
+            "SETTINGS": "Configuración",
+            "TICKETS": "Billetes"
         }
     },
     "ONBOARDING": {
         "LANGUAGE": {
-            "DESCRIPTION": "Seleccione o idioma que desexa usar na aplicación",
+            "DESCRIPTION": "Selecciona o idioma que queres usar na aplicación",
             "TITLE": "Idioma"
         },
         "CAMERA_PERMISSION": {
-            "DESCRIPTION": "Esta aplicación necesita acceder á súa cámara para escanear tíquets, pode usar a aplicación sen este permiso pero non poderá escanear tíquets.",
-            "TITLE": "Permiso da cámara"
+            "DESCRIPTION": "Esta aplicación necesita acceso á túa cámara para escanear billetes, podes usar a aplicación sen este permiso pero non poderás escanear billetes.",
+            "TITLE": "Permiso de cámara"
         },
         "NOTIFICATIONS_PERMISSION": {
-            "DESCRIPTION": "Esta aplicación necesita acceder ás súas notificacións para notificarlle sobre os resultados dos xogos, pode usar a aplicación sen este permiso pero non recibirá ningunha notificación.",
+            "DESCRIPTION": "Esta aplicación necesita acceso ás túas notificacións para informarte sobre os resultados dos xogos, podes usar a aplicación sen este permiso pero non recibirás ningunha notificación.",
             "TITLE": "Permiso de notificacións",
-            "DENIED": "Non ten permiso de notificacións, pode habilitalo na configuración da aplicación."
+            "DENIED": "Non tes permiso de notificacións, podes habilitalo na configuración da aplicación."
         }
     },
     "SCAN": {
         "ERRORS": {
-            "GENERAL": "Produciuse un erro ao escanear o tíquet, comprobe se o tíquet é válido ou xa foi escaneado."
+            "GENERAL": "Produciuse un erro ao escanear o billete, comproba se o billete é válido ou se xa está escaneado."
         },
         "MESSAGES": {
-            "CHECKING_TICKETS": "Comprobando premios...",
-            "TAP_SCREEN_TO_SCAN": "Toque a pantalla para escanear un tíquet"
+            "CHECKING_TICKETS": "Verificando premios...",
+            "TAP_SCREEN_TO_SCAN": "Toca a pantalla para escanear un billete"
         }
     },
     "TICKETS": {
-        "DELETE_TICKET": "Eliminar tíquet",
-        "DELETE_TICKET_QUESTION": "Está seguro de que quere eliminar este tíquet?",
-        "EMPTY_TICKET_LIST": "Aínda non ten ningún tíquet. Probe escanear un!",
-        "LOADING_TICKETS": "Cargando tíquets...",
-        "NO_PRIZE_FOR_THIS_TICKET": "Sen premio para este tíquet"
+        "DELETE_TICKET": "Eliminar billete",
+        "DELETE_TICKET_QUESTION": "Estás seguro de que queres eliminar este billete?",
+        "EMPTY_TICKET_LIST": "Aínda non tes billetes. Proba a escanear un!",
+        "LOADING_TICKETS": "Cargando billetes...",
+        "NO_PRIZE_FOR_THIS_TICKET": "Sen premio para este billete"
     },
     "UUID": {
-        "SYNC_DEVICE": "Sincronizar dispositivo",
-        "SYNC_DEVICE_QUESTION": "Está seguro de que quere sincronizar este dispositivo?",
+        "DESYNC_DEVICE_QUESTION": "Estás seguro de que queres desincronizar este dispositivo?",
         "DESYNC_DEVICE": "Desincronizar dispositivo",
-        "DESYNC_DEVICE_QUESTION": "Está seguro de que quere desincronizar este dispositivo?"
+        "SYNC_DEVICE_QUESTION": "Estás seguro de que queres sincronizar este dispositivo?",
+        "SYNC_DEVICE": "Sincronizar dispositivo"
     },
     "CONFIG": {
-        "LAUNCH_ONBOARDING": "Iniciar o asistente de inicio"
+        "LAUNCH_ONBOARDING": "Iniciar introdución"
     }
 }

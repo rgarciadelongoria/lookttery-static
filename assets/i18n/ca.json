@@ -1,38 +1,58 @@
 {
     "GAMES": {
+        "CATEGORY": "Categoria",
+        "DRAW_PENDING": "Sorteig pendent",
+        "EMPTY_GAME_LIST": "No hi ha jocs disponibles en aquest moment",
+        "JOKER_CATEGORY_1": "1 - (Tots):",
+        "JOKER_CATEGORY_2": "2 - (6 Primers o últims):",
+        "JOKER_CATEGORY_3": "3 - (5 Primers o últims):",
+        "JOKER_CATEGORY_4": "4 - (4 Primers o últims):",
+        "JOKER_CATEGORY_5": "5 - (3 Primers o últims):",
+        "JOKER_CATEGORY_6": "6 - (2 Primers o últims):",
+        "JOKER_CATEGORY_7": "7 - (Primers o últims):",
         "LN": "Loteria Nacional",
         "MORE_INFO": "Més informació",
-        "EMPTY_GAME_LIST": "Actualment no hi ha cap joc disponible",
-        "DRAW_PENDING": "Sortejant pendent"
+        "PR_CATEGORY_1": "S - (6 Encerts + R):",
+        "PR_CATEGORY_2": "1 - (6 Encerts):",
+        "PR_CATEGORY_3": "2 - (5 Encerts + C):",
+        "PR_CATEGORY_4": "3 - (5 Encerts):",
+        "PR_CATEGORY_5": "4 - (4 Encerts):",
+        "PR_CATEGORY_6": "5 - (3 Encerts):",
+        "PR_CATEGORY_7": "6 - (Reintegrament):"
     },
     "GLOBAL": {
         "ACCEPT": "Acceptar",
+        "ADVANCED_INFO": "Informació avançada",
         "BASQUE": "Basc",
+        "BUY_ME_A_COFFEE": "Compra'm un cafè",
         "CANCEL": "Cancel·lar",
         "CATALAN": "Català",
-        "CONTINUE": "Continuar",
         "CONFIG_ACTION": "Aquesta acció es pot configurar",
+        "CONTINUE": "Continuar",
         "ENGLISH": "Anglès",
         "GALICIAN": "Gallec",
         "ID": "Identificador",
+        "INVALID_CODE_TEXT": "Aquest codi no és vàlid, potser aquest joc no està disponible en aquest moment, torna-ho a provar més tard.",
+        "INVALID_CODE": "Codi invàlid",
+        "INVALID_GAME": "Joc invàlid",
         "IRREVERSIBLE_ACTION": "Aquesta acció és irreversible",
-        "LANGUAGE": "Llengua",
+        "LANGUAGE": "Idioma",
         "LANGUAGES": "Idiomes",
-        "LOAD_MORE": "Carrega'n més",
+        "LOAD_MORE": "Carregar més",
         "NOTIFICATIONS": "Notificacions",
         "PUSH_TOKEN": "Token de notificació",
-        "REQUEST_PERMISSION": "Sol·licita permís",
-        "SEARCH": "Cerca",
-        "SEARCH_MIN_LENGTH_REQUIRED": "La cerca requereix com a mínim {{value1}} caràcters",
+        "REQUEST_PERMISSION": "Sol·licitar permís",
+        "SEARCH_MIN_LENGTH_REQUIRED": "La cerca requereix almenys {{value1}} caràcters",
+        "SEARCH": "Cercar",
         "SPANISH": "Espanyol",
         "USER_ID": "ID d'usuari"
     },
     "MAIN": {
         "TABS": {
             "GAMES": "Jocs",
+            "SCAN_NOW": "Escanejar ara",
             "SETTINGS": "Configuració",
-            "SCAN_NOW": "Escaneja Ara",
-            "TICKETS": "Tiquets"
+            "TICKETS": "Bitllets"
         }
     },
     "ONBOARDING": {
@@ -41,38 +61,38 @@
             "TITLE": "Idioma"
         },
         "CAMERA_PERMISSION": {
-            "DESCRIPTION": "Aquesta aplicació necessita accedir a la teva càmera per escanejar tiquets, pots utilitzar l'aplicació sense aquest permís però no podràs escanejar tiquets.",
-            "TITLE": "Permisos de càmera"
+            "DESCRIPTION": "Aquesta aplicació necessita accés a la teva càmera per escanejar bitllets, pots utilitzar l'aplicació sense aquest permís però no podràs escanejar bitllets.",
+            "TITLE": "Permís de càmera"
         },
         "NOTIFICATIONS_PERMISSION": {
-            "DESCRIPTION": "Aquesta aplicació necessita accedir a les teves notificacions per notificar-te sobre els resultats dels jocs, pots utilitzar l'aplicació sense aquest permís però no rebràs cap notificació.",
-            "TITLE": "Permisos de notificacions",
-            "DENIED": "No tens permís de notificacions, pots activar-lo a la configuració de l'aplicació."
+            "DESCRIPTION": "Aquesta aplicació necessita accés a les teves notificacions per informar-te sobre els resultats dels jocs, pots utilitzar l'aplicació sense aquest permís però no rebràs cap notificació.",
+            "TITLE": "Permís de notificacions",
+            "DENIED": "No tens permís de notificacions, pots habilitar-lo a la configuració de l'aplicació."
         }
     },
     "SCAN": {
         "ERRORS": {
-            "GENERAL": "S'ha produït un error en escanejar el tiquet, comprova si el tiquet és vàlid o ja ha estat escanejat."
+            "GENERAL": "S'ha produït un error en escanejar el bitllet, verifica si el bitllet és vàlid o si ja està escanejat."
         },
         "MESSAGES": {
-            "CHECKING_TICKETS": "Comprovant premis...",
-            "TAP_SCREEN_TO_SCAN": "Toca la pantalla per escanejar un tiquet"
+            "CHECKING_TICKETS": "Verificant premis...",
+            "TAP_SCREEN_TO_SCAN": "Toca la pantalla per escanejar un bitllet"
         }
     },
     "TICKETS": {
-        "DELETE_TICKET": "Eliminar Tiquet",
-        "DELETE_TICKET_QUESTION": "Estàs segur que vols eliminar aquest tiquet?",
-        "EMPTY_TICKET_LIST": "Encara no tens cap tiquet. Prova d'escanejar-ne un!",
-        "LOADING_TICKETS": "Carregant tiquets...",
-        "NO_PRIZE_FOR_THIS_TICKET": "Cap premi per a aquest tiquet"
+        "DELETE_TICKET": "Eliminar bitllet",
+        "DELETE_TICKET_QUESTION": "Estàs segur que vols eliminar aquest bitllet?",
+        "EMPTY_TICKET_LIST": "Encara no tens bitllets. Prova d'escanejar-ne un!",
+        "LOADING_TICKETS": "Carregant bitllets...",
+        "NO_PRIZE_FOR_THIS_TICKET": "Sense premi per aquest bitllet"
     },
     "UUID": {
-        "SYNC_DEVICE": "Sincronitzar dispositiu",
-        "SYNC_DEVICE_QUESTION": "Estàs segur que vols sincronitzar aquest dispositiu?",
+        "DESYNC_DEVICE_QUESTION": "Estàs segur que vols desincronitzar aquest dispositiu?",
         "DESYNC_DEVICE": "Desincronitzar dispositiu",
-        "DESYNC_DEVICE_QUESTION": "Estàs segur que vols desincronitzar aquest dispositiu?"
+        "SYNC_DEVICE_QUESTION": "Estàs segur que vols sincronitzar aquest dispositiu?",
+        "SYNC_DEVICE": "Sincronitzar dispositiu"
     },
     "CONFIG": {
-        "LAUNCH_ONBOARDING": "Iniciar el tutorial"
+        "LAUNCH_ONBOARDING": "Iniciar introducció"
     }
 }
