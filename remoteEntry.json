@@ -19,187 +19,187 @@
     },
     {
       "packageName": "@angular/cdk",
-      "outFileName": "angular_cdk-17_3_4.js",
+      "outFileName": "angular_cdk-17_3_10.js",
       "requiredVersion": "^17.3.1",
       "singleton": true,
       "strictVersion": true,
-      "version": "17.3.4"
+      "version": "17.3.10"
     },
     {
       "packageName": "@angular/cdk/a11y",
-      "outFileName": "angular_cdk_a11y-17_3_4.js",
+      "outFileName": "angular_cdk_a11y-17_3_10.js",
       "requiredVersion": "^17.3.1",
       "singleton": true,
       "strictVersion": true,
-      "version": "17.3.4"
+      "version": "17.3.10"
     },
     {
       "packageName": "@angular/cdk/accordion",
-      "outFileName": "angular_cdk_accordion-17_3_4.js",
+      "outFileName": "angular_cdk_accordion-17_3_10.js",
       "requiredVersion": "^17.3.1",
       "singleton": true,
       "strictVersion": true,
-      "version": "17.3.4"
+      "version": "17.3.10"
     },
     {
       "packageName": "@angular/cdk/bidi",
-      "outFileName": "angular_cdk_bidi-17_3_4.js",
+      "outFileName": "angular_cdk_bidi-17_3_10.js",
       "requiredVersion": "^17.3.1",
       "singleton": true,
       "strictVersion": true,
-      "version": "17.3.4"
+      "version": "17.3.10"
     },
     {
       "packageName": "@angular/cdk/clipboard",
-      "outFileName": "angular_cdk_clipboard-17_3_4.js",
+      "outFileName": "angular_cdk_clipboard-17_3_10.js",
       "requiredVersion": "^17.3.1",
       "singleton": true,
       "strictVersion": true,
-      "version": "17.3.4"
+      "version": "17.3.10"
     },
     {
       "packageName": "@angular/cdk/coercion",
-      "outFileName": "angular_cdk_coercion-17_3_4.js",
+      "outFileName": "angular_cdk_coercion-17_3_10.js",
       "requiredVersion": "^17.3.1",
       "singleton": true,
       "strictVersion": true,
-      "version": "17.3.4"
+      "version": "17.3.10"
     },
     {
       "packageName": "@angular/cdk/collections",
-      "outFileName": "angular_cdk_collections-17_3_4.js",
+      "outFileName": "angular_cdk_collections-17_3_10.js",
       "requiredVersion": "^17.3.1",
       "singleton": true,
       "strictVersion": true,
-      "version": "17.3.4"
+      "version": "17.3.10"
     },
     {
       "packageName": "@angular/cdk/dialog",
-      "outFileName": "angular_cdk_dialog-17_3_4.js",
+      "outFileName": "angular_cdk_dialog-17_3_10.js",
       "requiredVersion": "^17.3.1",
       "singleton": true,
       "strictVersion": true,
-      "version": "17.3.4"
+      "version": "17.3.10"
     },
     {
       "packageName": "@angular/cdk/drag-drop",
-      "outFileName": "angular_cdk_drag_drop-17_3_4.js",
+      "outFileName": "angular_cdk_drag_drop-17_3_10.js",
       "requiredVersion": "^17.3.1",
       "singleton": true,
       "strictVersion": true,
-      "version": "17.3.4"
+      "version": "17.3.10"
     },
     {
       "packageName": "@angular/cdk/keycodes",
-      "outFileName": "angular_cdk_keycodes-17_3_4.js",
+      "outFileName": "angular_cdk_keycodes-17_3_10.js",
       "requiredVersion": "^17.3.1",
       "singleton": true,
       "strictVersion": true,
-      "version": "17.3.4"
+      "version": "17.3.10"
     },
     {
       "packageName": "@angular/cdk/layout",
-      "outFileName": "angular_cdk_layout-17_3_4.js",
+      "outFileName": "angular_cdk_layout-17_3_10.js",
       "requiredVersion": "^17.3.1",
       "singleton": true,
       "strictVersion": true,
-      "version": "17.3.4"
+      "version": "17.3.10"
     },
     {
       "packageName": "@angular/cdk/listbox",
-      "outFileName": "angular_cdk_listbox-17_3_4.js",
+      "outFileName": "angular_cdk_listbox-17_3_10.js",
       "requiredVersion": "^17.3.1",
       "singleton": true,
       "strictVersion": true,
-      "version": "17.3.4"
+      "version": "17.3.10"
     },
     {
       "packageName": "@angular/cdk/menu",
-      "outFileName": "angular_cdk_menu-17_3_4.js",
+      "outFileName": "angular_cdk_menu-17_3_10.js",
       "requiredVersion": "^17.3.1",
       "singleton": true,
       "strictVersion": true,
-      "version": "17.3.4"
+      "version": "17.3.10"
     },
     {
       "packageName": "@angular/cdk/observers",
-      "outFileName": "angular_cdk_observers-17_3_4.js",
+      "outFileName": "angular_cdk_observers-17_3_10.js",
       "requiredVersion": "^17.3.1",
       "singleton": true,
       "strictVersion": true,
-      "version": "17.3.4"
+      "version": "17.3.10"
     },
     {
       "packageName": "@angular/cdk/observers/private",
-      "outFileName": "angular_cdk_observers_private-17_3_4.js",
+      "outFileName": "angular_cdk_observers_private-17_3_10.js",
       "requiredVersion": "^17.3.1",
       "singleton": true,
       "strictVersion": true,
-      "version": "17.3.4"
+      "version": "17.3.10"
     },
     {
       "packageName": "@angular/cdk/overlay",
-      "outFileName": "angular_cdk_overlay-17_3_4.js",
+      "outFileName": "angular_cdk_overlay-17_3_10.js",
       "requiredVersion": "^17.3.1",
       "singleton": true,
       "strictVersion": true,
-      "version": "17.3.4"
+      "version": "17.3.10"
     },
     {
       "packageName": "@angular/cdk/platform",
-      "outFileName": "angular_cdk_platform-17_3_4.js",
+      "outFileName": "angular_cdk_platform-17_3_10.js",
       "requiredVersion": "^17.3.1",
       "singleton": true,
       "strictVersion": true,
-      "version": "17.3.4"
+      "version": "17.3.10"
     },
     {
       "packageName": "@angular/cdk/portal",
-      "outFileName": "angular_cdk_portal-17_3_4.js",
+      "outFileName": "angular_cdk_portal-17_3_10.js",
       "requiredVersion": "^17.3.1",
       "singleton": true,
       "strictVersion": true,
-      "version": "17.3.4"
+      "version": "17.3.10"
     },
     {
       "packageName": "@angular/cdk/scrolling",
-      "outFileName": "angular_cdk_scrolling-17_3_4.js",
+      "outFileName": "angular_cdk_scrolling-17_3_10.js",
       "requiredVersion": "^17.3.1",
       "singleton": true,
       "strictVersion": true,
-      "version": "17.3.4"
+      "version": "17.3.10"
     },
     {
       "packageName": "@angular/cdk/stepper",
-      "outFileName": "angular_cdk_stepper-17_3_4.js",
+      "outFileName": "angular_cdk_stepper-17_3_10.js",
       "requiredVersion": "^17.3.1",
       "singleton": true,
       "strictVersion": true,
-      "version": "17.3.4"
+      "version": "17.3.10"
     },
     {
       "packageName": "@angular/cdk/table",
-      "outFileName": "angular_cdk_table-17_3_4.js",
+      "outFileName": "angular_cdk_table-17_3_10.js",
       "requiredVersion": "^17.3.1",
       "singleton": true,
       "strictVersion": true,
-      "version": "17.3.4"
+      "version": "17.3.10"
     },
     {
       "packageName": "@angular/cdk/text-field",
-      "outFileName": "angular_cdk_text_field-17_3_4.js",
+      "outFileName": "angular_cdk_text_field-17_3_10.js",
       "requiredVersion": "^17.3.1",
       "singleton": true,
       "strictVersion": true,
-      "version": "17.3.4"
+      "version": "17.3.10"
     },
     {
       "packageName": "@angular/cdk/tree",
-      "outFileName": "angular_cdk_tree-17_3_4.js",
+      "outFileName": "angular_cdk_tree-17_3_10.js",
       "requiredVersion": "^17.3.1",
       "singleton": true,
       "strictVersion": true,
-      "version": "17.3.4"
+      "version": "17.3.10"
     },
     {
       "packageName": "@angular/common",
@@ -340,7 +340,7 @@
     {
       "packageName": "@zxing/browser",
       "outFileName": "zxing_browser-0_1_4.js",
-      "requiredVersion": "^0.1.4",
+      "requiredVersion": "0.1.4",
       "singleton": true,
       "strictVersion": true,
       "version": "0.1.4"
@@ -348,7 +348,7 @@
     {
       "packageName": "@zxing/library",
       "outFileName": "zxing_library-0_20_0.js",
-      "requiredVersion": "^0.20.0",
+      "requiredVersion": "0.20.0",
       "singleton": true,
       "strictVersion": true,
       "version": "0.20.0"
@@ -356,18 +356,18 @@
     {
       "packageName": "@zxing/ngx-scanner",
       "outFileName": "zxing_ngx_scanner-17_0_1.js",
-      "requiredVersion": "^17.0.1",
+      "requiredVersion": "17.0.1",
       "singleton": true,
       "strictVersion": true,
       "version": "17.0.1"
     },
     {
       "packageName": "browserslist",
-      "outFileName": "browserslist-4_23_0.js",
+      "outFileName": "browserslist-4_23_1.js",
       "requiredVersion": "^4.23.0",
       "singleton": true,
       "strictVersion": true,
-      "version": "4.23.0"
+      "version": "4.23.1"
     },
     {
       "packageName": "ng-qrcode",
@@ -395,11 +395,11 @@
     },
     {
       "packageName": "tslib",
-      "outFileName": "tslib-2_6_2.js",
+      "outFileName": "tslib-2_6_3.js",
       "requiredVersion": "^2.3.0",
       "singleton": true,
       "strictVersion": true,
-      "version": "2.6.2"
+      "version": "2.6.3"
     },
     {
       "packageName": "uuid",
@@ -413,7 +413,7 @@
   "exposes": [
     {
       "key": "./routes",
-      "outFileName": "routes-SWBBR4FX.js"
+      "outFileName": "routes-JBKDLUNR.js"
     }
   ]
 }
