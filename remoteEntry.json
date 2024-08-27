@@ -1,5 +1,5 @@
 {
-  "name": "lookttery-app",
+  "name": "resuloto",
   "shared": [
     {
       "packageName": "@angular/animations",
@@ -413,7 +413,7 @@
   "exposes": [
     {
       "key": "./routes",
-      "outFileName": "routes-JBKDLUNR.js"
+      "outFileName": "routes-DHCYZWD2.js"
     }
   ]
 }
