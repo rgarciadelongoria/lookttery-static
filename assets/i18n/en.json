@@ -98,6 +98,10 @@
         "LN": "Lotería Nacional",
         "MILLON_CATEGORY_1": "1 - Millón:",
         "MORE_INFO": "More info",
+        "ONCE_NAVIDAD": "Cupon extra de navidad de la ONCE",
+        "ONCE_NAVIDAD_CATEGORY_0": "First prize",
+        "ONCE_NAVIDAD_CATEGORY_1": "Second prize",
+        "ONCE_NAVIDAD_CATEGORY_2": "Third prize:",
         "PR": "La Primitiva",
         "PR_CATEGORY_0": "6 Hits + R:",
         "PR_CATEGORY_1": "6 Hits:",
@@ -150,6 +154,7 @@
         "CONFIG_ACTION": "This action can be configured",
         "CONFIRM": "Confirm",
         "CONTINUE": "Continue",
+        "COUNTRY": "Country",
         "ENGLISH": "English",
         "FILTER_GAMES": "Filter games",
         "FILTERS_ACTIVE": "{{filters}} games",
@@ -163,11 +168,13 @@
         "LATEST_DAYS": "{{days}} days",
         "LANGUAGES": "Languages",
         "LOAD_MORE": "Load more",
+        "MEXICO": "Mexico",
         "NOTIFICATIONS": "Notifications",
         "PUSH_TOKEN": "Notification token",
         "REQUEST_PERMISSION": "Request permission",
         "SEARCH_MIN_LENGTH_REQUIRED": "Search requires at least {{value1}} characters",
         "SEARCH": "Search",
+        "SPAIN": "Spain",
         "SPANISH": "Spanish",
         "TICKETS_LOADED": "Tickets: {{tickets}}",
         "USER_ID": "User ID"
@@ -181,6 +188,10 @@
         }
     },
     "ONBOARDING": {
+        "COUNTRY": {
+            "DESCRIPTION": "Select the country you want to use in the app",
+            "TITLE": "Country"
+        },
         "LANGUAGE": {
             "DESCRIPTION": "Select the language you want to use in the app",
             "TITLE": "Language"
